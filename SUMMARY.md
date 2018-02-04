@@ -36,4 +36,7 @@
 * [15. Shell commands](15-shell-commands.md)
   * [15.1 clr](15-shell-commands/151-clr.md)
   * [15.2 pled](15-shell-commands/152-pled.md)
+  * [15.3 pleds](15-shell-commands/153-pleds.md)
+  * [15.4 pledarr](15-shell-commands/154-pledarr.md)
+  * [15.5 sn](15-shell-commands/155-sn.md)
 
