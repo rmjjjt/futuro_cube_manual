@@ -14,5 +14,5 @@ Example:
 * `DrawPoint(23)`, draw to square index 23 
 * `DrawPoint( w(4,2))`, draw to side 4, square 2
 
-See also: [DrawSide](/17-api-native-functions/1710-drawside.md), DrawSquare, DrawCross
+See also: [DrawSide](/17-api-native-functions/1710-drawside.md), [DrawSquare](/17-api-native-functions/1711-drawsquare.md), [DrawCross](/17-api-native-functions/1713-drawcross.md)
 
