@@ -52,4 +52,7 @@
   * [15.16 tinfo](15-shell-commands/1516-tinfo.md)
   * [15.17 pdir](15-shell-commands/1517-pdir.md)
   * [15.18 prun](15-shell-commands/1518-prun.md)
+  * [15.19 prunf](15-shell-commands/1519-prunf.md)
+  * [15.20 prunf N](15-shell-commands/1520-prunf-n.md)
+  * [15.21 prunm](15-shell-commands/1521-prunm.md)
 
