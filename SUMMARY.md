@@ -70,4 +70,6 @@
   * [15.34 varload](15-shell-commands/1534-varload.md)
   * [15.35 varpawnerase](15-shell-commands/1535-varpawnerase.md)
 * [16 Shell cmd ”motion”](16-shell-cmd-motion.md)
+* [17 API-Native functions](17-api-native-functions.md)
+  * [17.1 ClearCanvas](17-api-native-functions/171-clearcanvas.md)
 
