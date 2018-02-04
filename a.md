@@ -1,6 +1,6 @@
 # 2 Introduction
 
-Welcome to the world of programming Rubik’s Futuro Cube. We hope you enjoy it as much as we enjoyed creating this development kit. Rubik’s Futuro Cube can be programmed by using a simple, typeless 32-bit language called ”PAWN”. 
+Welcome to the world of programming Rubik’s Futuro Cube. We hope you enjoy it as much as we enjoyed creating this development kit. Rubik’s Futuro Cube can be programmed by using a simple, typeless 32-bit language called ”PAWN”.
 
 This language has C like syntax and even if simple is very powerful and fast. To get a little overview what is possible on a basic level and how the language looks like, please have a look at available examples at our SDK page:
 
@@ -8,17 +8,17 @@ This language has C like syntax and even if simple is very powerful and fast. To
 
 More information about PAWN, language syntax and other info can be found at:
 
-[http://www.compuphase.com/pawn/pawn.htm](http://www.compuphase.com/pawn/pawn.htm) 
+[http://www.compuphase.com/pawn/pawn.htm](http://www.compuphase.com/pawn/pawn.htm)
 
 For language syntax guide look at:
 
-[http://www.compuphase.com/pawn/Pawn\_Language\_Guide.pdf](http://www.compuphase.com/pawn/Pawn_Language_Guide.pdf) 
+[http://www.compuphase.com/pawn/Pawn\_Language\_Guide.pdf](http://www.compuphase.com/pawn/Pawn_Language_Guide.pdf)
 
-You will also need to download Rubik’s Futuro Cube Suite \(RFC Suite\), available for Windows and Mac OS. 
+You will also need to download Rubik’s Futuro Cube Suite \(RFC Suite\), available for Windows and Mac OS.
 
-Windows users additionally have to correctly install the USB driver. 
+Windows users additionally have to correctly install the USB driver.
 
-Please follow instructions at:
+Please follow the instructions at:
 
 [http://www.futurocube.com/support.htm](http://www.futurocube.com/support.htm)
 
