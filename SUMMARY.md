@@ -69,7 +69,9 @@
   * [15.33 varpawn](15-shell-commands/1533-varpawn.md)
   * [15.34 varload](15-shell-commands/1534-varload.md)
   * [15.35 varpawnerase](15-shell-commands/1535-varpawnerase.md)
-* [16 Shell cmd ”motion”](16-shell-cmd-motion.md)
-* [17 API-Native functions](17-api-native-functions.md)
+* [16. Shell cmd ”motion”](16-shell-cmd-motion.md)
+* [17. API-Native functions](17-api-native-functions.md)
   * [17.1 ClearCanvas](17-api-native-functions/171-clearcanvas.md)
+* [18 Release notes](18-release-notes.md)
+  * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
 
