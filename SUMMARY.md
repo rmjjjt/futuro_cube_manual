@@ -39,4 +39,6 @@
   * [15.3 pleds](15-shell-commands/153-pleds.md)
   * [15.4 pledarr](15-shell-commands/154-pledarr.md)
   * [15.5 sn](15-shell-commands/155-sn.md)
+  * [15.6 echoon](15-shell-commands/156-echoon.md)
+  * [15.7 echooff](15-shell-commands/157-echooff.md)
 
