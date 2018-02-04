@@ -10,5 +10,5 @@ If it is important to delay the program or wait for something, like waiting unti
 
 The following picture shows simplified scheduling and recommended basic programming workflow.![](/assets/Screen Shot 2018-02-04 at 13.37.51.png)
 
-Simplified Scheduling
+Fig 1. Simplified Scheduling
 
