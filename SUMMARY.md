@@ -67,4 +67,6 @@
   * [15.31 amxinfo](15-shell-commands/1531-amxinfo.md)
   * [15.32 var](15-shell-commands/1532-var.md)
   * [15.33 varpawn](15-shell-commands/1533-varpawn.md)
+  * [15.34 varload](15-shell-commands/1534-varload.md)
+  * [15.35 varpawnerase](15-shell-commands/1535-varpawnerase.md)
 
