@@ -2,7 +2,7 @@
 
 Welcome to the world of programming Rubik’s Futuro Cube. We hope you enjoy it as much as we enjoyed creating this development kit. Rubik’s Futuro Cube can be programmed by using a simple, typeless 32-bit language called ”PAWN”.
 
-This language has C like syntax and even if simple is very powerful and fast. To get a little overview what is possible on a basic level and how the language looks like, please have a look at available examples at our SDK page:
+This language has C like syntax and even if simple, is very powerful and fast. To get a little overview of what is possible on a basic level and how the language looks, please have a look at available examples on our SDK page:
 
 [http://www.futurocube.com/sdk.htm](http://www.futurocube.com/sdk.htm)
 
