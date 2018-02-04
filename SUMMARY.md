@@ -58,4 +58,5 @@
   * [15.22 pawnerase](15-shell-commands/1522-pawnerase.md)
   * [15.23 pawneraseflash](15-shell-commands/1523-pawneraseflash.md)
   * [15.24 pawnerasemycube](15-shell-commands/1524-pawnerasemycube.md)
+  * [15.25 pawn](15-shell-commands/1525-pawn.md)
 
