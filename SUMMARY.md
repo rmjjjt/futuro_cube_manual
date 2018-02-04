@@ -27,4 +27,6 @@
   * [7.3 Sizeof from multi-dimension arrays](7-pawn-specialties/73-sizeof-from-multi-dimension-arrays.md)
   * [7.4 Packed and unpacked strings](7-pawn-specialties/74-packed-and-unpacked-strings.md)
 * [8. Colors, palettes and drawing](8-colors-palettes-and-drawing.md)
+* [9. PWM steps - 64 versus 256](9-pwm-steps-64-versus-256.md)
+* [10 Push Pop Arrays](10-push-pop-arrays.md)
 
