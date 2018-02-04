@@ -2,8 +2,6 @@
 
 ## PAWN - embedded scripting language
 
-&lt;h2 align="center"&gt;Test&lt;/h2&gt;
-
 ![](/assets/Pawn_logo.png)
 
 ## Rubik’s Futuro Cube – SDK document version 1.4 OPEN BETA
