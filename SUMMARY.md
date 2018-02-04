@@ -85,6 +85,7 @@
   * [17.12 DrawCube](17-api-native-functions/1712-drawcube.md)
   * [17.13 DrawCross](17-api-native-functions/1713-drawcross.md)
   * [17.14 PushCanvas](17-api-native-functions/1714-pushcanvas.md)
+  * [17.15 PopCanvas](17-api-native-functions/1715-popcanvas.md)
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
