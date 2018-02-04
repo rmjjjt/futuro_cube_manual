@@ -66,4 +66,5 @@
   * [15.30 picon](15-shell-commands/1530-picon.md)
   * [15.31 amxinfo](15-shell-commands/1531-amxinfo.md)
   * [15.32 var](15-shell-commands/1532-var.md)
+  * [15.33 varpawn](15-shell-commands/1533-varpawn.md)
 
