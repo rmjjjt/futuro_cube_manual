@@ -61,4 +61,5 @@
   * [15.25 pawn](15-shell-commands/1525-pawn.md)
   * [15.26 setpawn](15-shell-commands/1526-setpawn.md)
   * [15.27 setpawnstd](15-shell-commands/1527-setpawnstd.md)
+  * [15.28 setpawnauto](15-shell-commands/1528-setpawnauto.md)
 
