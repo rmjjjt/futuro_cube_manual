@@ -72,6 +72,7 @@
 * [16. Shell cmd ”motion”](16-shell-cmd-motion.md)
 * [17. API-Native functions](17-api-native-functions.md)
   * [17.1 ClearCanvas](17-api-native-functions/171-clearcanvas.md)
+  * [17.2 PrintCanvas](17-api-native-functions/172-printcanvas.md)
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
