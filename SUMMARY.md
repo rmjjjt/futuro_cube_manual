@@ -104,6 +104,7 @@
   * [17.31 ReadCanvas](17-api-native-functions/1731-readcanvas.md)
   * [17.32 ReadRGBLed](17-api-native-functions/1732-readrgbled.md)
   * [17.33 ClearCube](17-api-native-functions/1733-clearcube.md)
+  * [17.34 DrawTail](17-api-native-functions/1734-drawtail.md)
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
