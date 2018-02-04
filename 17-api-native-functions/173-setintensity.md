@@ -8,5 +8,5 @@ Notes: Each color component when drawn onto the canvas is scaled by the intensit
 
 Example: `SetIntensity(30)`
 
-See also: SetColorDefaults, [SetColor](/17-api-native-functions/174-setcolor.md)
+See also: [SetColorDefaults](/17-api-native-functions/176-basic-color-definition.md), [SetColor](/17-api-native-functions/174-setcolor.md)
 
