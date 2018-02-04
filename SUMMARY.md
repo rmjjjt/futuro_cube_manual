@@ -82,6 +82,8 @@
   * [17.9 DrawPC](17-api-native-functions/179-drawpc.md)
   * [17.10 DrawSide](17-api-native-functions/1710-drawside.md)
   * [17.11 DrawSquare](17-api-native-functions/1711-drawsquare.md)
+  * [17.12 DrawCube](17-api-native-functions/1712-drawcube.md)
+  * [17.13 DrawCross](17-api-native-functions/1713-drawcross.md)
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
