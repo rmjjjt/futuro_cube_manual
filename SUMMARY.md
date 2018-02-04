@@ -48,4 +48,5 @@
   * [15.12 play](15-shell-commands/1512-play.md)
   * [15.13 dir](15-shell-commands/1513-dir.md)
   * [15.14 q](15-shell-commands/1514-q.md)
+  * 15.15 kill
 
