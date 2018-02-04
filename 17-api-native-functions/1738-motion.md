@@ -14,5 +14,5 @@ Example:
 * `if (motion) {...}` if there is any motion, we should handle it
 * `if (_is(motion,TAP XPLUS)) {...}` if the motion is specifically `TAP XPLUS`, we should handle it
 
-See also: [RegMotion](/17-api-native-functions/1736-regmotion.md), [AckMotion](/17-api-native-functions/1739-ackmotion.md), RegAllSideTaps, UnregAllMotion
+See also: [RegMotion](/17-api-native-functions/1736-regmotion.md), [AckMotion](/17-api-native-functions/1739-ackmotion.md), [RegAllSideTaps](/17-api-native-functions/1740-regallsidetaps.md), [UnregAllMotion](/17-api-native-functions/1742-unregallmotion.md)
 
