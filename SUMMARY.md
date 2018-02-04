@@ -41,4 +41,5 @@
   * [15.5 sn](15-shell-commands/155-sn.md)
   * [15.6 echoon](15-shell-commands/156-echoon.md)
   * [15.7 echooff](15-shell-commands/157-echooff.md)
+  * [15.8 prompton](15-shell-commands/158-prompton.md)
 
