@@ -6,11 +6,9 @@ Good behavior of the script is to perform so called co-operative multitasking. T
 
 If the script is not complicated, no one will ever notice that `Sleep()` isn't called.
 
-If it is important to delay the program or wait for something, like waiting until music playback is over, you should always use delay functions with the built in `Sleep()` instruction. These are, for example: `Sleep()`, `WaitPlayOver()`, `WaitMelodyOver()`. 
+If it is important to delay the program or wait for something, like waiting until music playback is over, you should always use delay functions with the built in `Sleep()` instruction. These are, for example: `Sleep()`, `WaitPlayOver()`, `WaitMelodyOver()`.
 
-The following picture shows simplified scheduling and recommended basic programming workflow.
+The following picture shows simplified scheduling and recommended basic programming workflow.![](/assets/Screen Shot 2018-02-04 at 13.37.51.png)
 
-![](/assets/Screen Shot 2018-02-04 at 13.37.51.png) 
-
--&gt;Simplified Scheduling&lt;-
+Simplified Scheduling
 
