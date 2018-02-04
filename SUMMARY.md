@@ -140,6 +140,7 @@
   * [17.67 WalkerMove](17-api-native-functions/1767-walkermove.md)
   * [17.68 WalkerTurn](17-api-native-functions/1768-walkerturn.md)
   * [17.69 WalkerDiff](17-api-native-functions/1769-walkerdiff.md)
+  * [17.70 WalkerStepTo](17-api-native-functions/1770-walkerstepto.md)
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
