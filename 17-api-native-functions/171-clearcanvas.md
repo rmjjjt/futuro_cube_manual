@@ -8,5 +8,5 @@ Notes: This function clears virtual canvas. Usually, it is used before drawing a
 
 Example: `ClearCanvas()`
 
-See also: [PrintCanvas](/17-api-native-functions/172-printcanvas.md), DrawPoint
+See also: [PrintCanvas](/17-api-native-functions/172-printcanvas.md), [DrawPoint](/17-api-native-functions/178-drawpoint.md)
 
