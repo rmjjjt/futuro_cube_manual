@@ -29,4 +29,5 @@
 * [8. Colors, palettes and drawing](8-colors-palettes-and-drawing.md)
 * [9. PWM steps - 64 versus 256](9-pwm-steps-64-versus-256.md)
 * [10. Push Pop Arrays](10-push-pop-arrays.md)
+* [11. Default settings for scripts](11-default-settings-for-scripts.md)
 
