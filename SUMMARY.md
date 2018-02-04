@@ -23,4 +23,8 @@
   * [6.7 Erasing scripts](6-compiling-uploading-scripts/67-erasing-scripts.md)
 * [7. Pawn specialties](7-pawn-specialties.md)
   * [7.1 Default parameters](7-pawn-specialties/71-default-parameters.md)
+  * [7.2 Operator sizeof](7-pawn-specialties/72-operator-sizeof.md)
+  * [7.3 Sizeof from multi-dimension arrays](7-pawn-specialties/73-sizeof-from-multi-dimension-arrays.md)
+  * [7.4 Packed and unpacked strings](7-pawn-specialties/74-packed-and-unpacked-strings.md)
+* [8. Colors, palettes and drawing](8-colors-palettes-and-drawing.md)
 
