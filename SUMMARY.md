@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Cover](README.md)
 * [1. Licenses](/chapter1.md#1-licenses)
   * [1.1 Seven Towns Ltd. ](/chapter1.md#11-seven-towns-ltd-)
   * [1.2 Pawn](/chapter1.md#12-pawn-)
@@ -21,12 +21,12 @@
   * [6.5 Multiple script support - from FW 4.5 and RFC 0.8](6-compiling-uploading-scripts/65-multiple-script-support-from-fw-45-and-rfc-08.md)
   * [6.6 Starting scripts automatically](6-compiling-uploading-scripts/66-starting-scripts-automatically.md)
   * [6.7 Erasing scripts](6-compiling-uploading-scripts/67-erasing-scripts.md)
-* [7. Pawn specialties](7-pawn-specialties.md)
+* [7. Pawn specialities](7-pawn-specialties.md)
   * [7.1 Default parameters](7-pawn-specialties/71-default-parameters.md)
   * [7.2 Operator sizeof](7-pawn-specialties/72-operator-sizeof.md)
   * [7.3 Sizeof from multi-dimension arrays](7-pawn-specialties/73-sizeof-from-multi-dimension-arrays.md)
   * [7.4 Packed and unpacked strings](7-pawn-specialties/74-packed-and-unpacked-strings.md)
 * [8. Colors, palettes and drawing](8-colors-palettes-and-drawing.md)
 * [9. PWM steps - 64 versus 256](9-pwm-steps-64-versus-256.md)
-* [10 Push Pop Arrays](10-push-pop-arrays.md)
+* [10. Push Pop Arrays](10-push-pop-arrays.md)
 
