@@ -80,6 +80,7 @@
   * [17.7 SetRgbColor\(r,g,b\)](17-api-native-functions/177-setrgbcolorrgb.md)
   * [17.8 DrawPoint](17-api-native-functions/178-drawpoint.md)
   * [17.9 DrawPC](17-api-native-functions/179-drawpc.md)
+  * [17.10 DrawSide](17-api-native-functions/1710-drawside.md)
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
