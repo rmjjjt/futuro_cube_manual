@@ -2,7 +2,7 @@
 
 ## 1.1 Seven Towns Ltd.
 
-RUBIK’S ® is a trademark of Seven Towns Ltd. Used under license. All Rights Reserved. Copyright **©** 2010
+RUBIK’S &reg; is a trademark of Seven Towns Ltd. Used under license. All Rights Reserved. Copyright &copy; 2010
 
 ## 1.2 Pawn
 
