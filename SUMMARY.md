@@ -34,4 +34,6 @@
 * [13. Timers](13-timers.md)
 * [14. Basic commands](14-basic-commands-to-start-with.md)
 * [15. Shell commands](15-shell-commands.md)
+  * [15.1 clr](15-shell-commands/151-clr.md)
+  * [15.2 pled](15-shell-commands/152-pled.md)
 
