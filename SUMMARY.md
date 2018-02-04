@@ -55,4 +55,7 @@
   * [15.19 prunf](15-shell-commands/1519-prunf.md)
   * [15.20 prunf N](15-shell-commands/1520-prunf-n.md)
   * [15.21 prunm](15-shell-commands/1521-prunm.md)
+  * [15.22 pawnerase](15-shell-commands/1522-pawnerase.md)
+  * [15.23 pawneraseflash](15-shell-commands/1523-pawneraseflash.md)
+  * [15.24 pawnerasemycube](15-shell-commands/1524-pawnerasemycube.md)
 
