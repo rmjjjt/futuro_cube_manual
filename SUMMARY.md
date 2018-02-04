@@ -31,4 +31,5 @@
 * [10. Push Pop Arrays](10-push-pop-arrays.md)
 * [11. Default settings for scripts](11-default-settings-for-scripts.md)
 * [12. Variables](12-variables.md)
+* [13. Timers](13-timers.md)
 
