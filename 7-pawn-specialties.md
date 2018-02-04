@@ -1,6 +1,6 @@
 # 7 Pawn specialties
 
-We definitely recommend that you study Pawn Language Guide at the following address: 
+We definitely recommend that you study the Pawn Language Guide at the following address:
 
 [https://github.com/compuphase/pawn/tree/master/doc](https://github.com/compuphase/pawn/tree/master/doc)
 

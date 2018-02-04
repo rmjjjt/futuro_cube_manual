@@ -21,5 +21,6 @@
   * [6.5 Multiple script support - from FW 4.5 and RFC 0.8](6-compiling-uploading-scripts/65-multiple-script-support-from-fw-45-and-rfc-08.md)
   * [6.6 Starting scripts automatically](6-compiling-uploading-scripts/66-starting-scripts-automatically.md)
   * [6.7 Erasing scripts](6-compiling-uploading-scripts/67-erasing-scripts.md)
-* [7 Pawn specialties](7-pawn-specialties.md)
+* [7. Pawn specialties](7-pawn-specialties.md)
+  * [7.1 Default parameters](7-pawn-specialties/71-default-parameters.md)
 
