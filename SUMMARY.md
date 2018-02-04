@@ -44,4 +44,5 @@
   * [15.8 prompton](15-shell-commands/158-prompton.md)
   * [15.9 promptoff](15-shell-commands/159-promptoff.md)
   * [15.10 ver](15-shell-commands/1510-ver.md)
+  * [15.11 appinfo](15-shell-commands/1511-appinfo.md)
 
