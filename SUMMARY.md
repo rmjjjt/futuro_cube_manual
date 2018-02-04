@@ -59,4 +59,6 @@
   * [15.23 pawneraseflash](15-shell-commands/1523-pawneraseflash.md)
   * [15.24 pawnerasemycube](15-shell-commands/1524-pawnerasemycube.md)
   * [15.25 pawn](15-shell-commands/1525-pawn.md)
+  * [15.26 setpawn](15-shell-commands/1526-setpawn.md)
+  * [15.27 setpawnstd](15-shell-commands/1527-setpawnstd.md)
 
