@@ -18,4 +18,5 @@
   * [6.2 Flash](6-compiling-uploading-scripts/62-flash.md)
   * [6.3 MyCube](6-compiling-uploading-scripts/63-mycube.md)
   * [6.4 Starting scripts in the standard way](6-compiling-uploading-scripts/64-starting-scripts-in-the-standard-way.md)
+  * [6.5 Multiple script support - from FW 4.5 and RFC 0.8](6-compiling-uploading-scripts/65-multiple-script-support-from-fw-45-and-rfc-08.md)
 
