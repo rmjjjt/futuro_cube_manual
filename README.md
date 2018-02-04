@@ -16,6 +16,8 @@
 
 
 
+---
+
 
 
 RUBIK’S ® is a trademark of Seven Towns Ltd. Used under license. All Rights Reserved. Copyright © 2010
