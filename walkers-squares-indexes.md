@@ -9,7 +9,7 @@ side=index/9
 square=index%9
 ```
 
-We can refer to squares either absolutely, that means we know their index, side, square, or we can place them on something called **WALKER**.
+We can refer to squares either absolutely, that means we know their index, side and/or square, or we can place them on something called **WALKER**.
 
 **WALKER** is a packed structure, that contains information not only about the position of the **WALKER** but also about its direction. This is very useful, because we can move **WALKER** forward, backward, rotate it etc. without paying attention what it's actual absolute position is.
 
