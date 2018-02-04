@@ -21,7 +21,7 @@ side=_side(walker)
 square=_square(walker)
 ```
 
-Of course, the **WALKER** will always stick to the cube's surface, so he moves correctly over the edges.
+Of course, the **WALKER** will always stick to the cube's surface, so moves correctly over the edges.
 
 Many functions take **WALKER** directly as argument. For example, if we want to draw on the square defined by **WALKER** position, we simply use `DrawPoint(walker)`. We do not need to add any macros.
 
