@@ -42,4 +42,5 @@
   * [15.6 echoon](15-shell-commands/156-echoon.md)
   * [15.7 echooff](15-shell-commands/157-echooff.md)
   * [15.8 prompton](15-shell-commands/158-prompton.md)
+  * [15.9 promptoff](15-shell-commands/159-promptoff.md)
 
