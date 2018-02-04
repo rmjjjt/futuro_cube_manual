@@ -62,4 +62,8 @@
   * [15.26 setpawn](15-shell-commands/1526-setpawn.md)
   * [15.27 setpawnstd](15-shell-commands/1527-setpawnstd.md)
   * [15.28 setpawnauto](15-shell-commands/1528-setpawnauto.md)
+  * [15.29 pawnmem](15-shell-commands/1529-pawnmem.md)
+  * [15.30 picon](15-shell-commands/1530-picon.md)
+  * [15.31 amxinfo](15-shell-commands/1531-amxinfo.md)
+  * [15.32 var](15-shell-commands/1532-var.md)
 
