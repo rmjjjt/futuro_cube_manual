@@ -32,4 +32,6 @@
 * [11. Default settings for scripts](11-default-settings-for-scripts.md)
 * [12. Variables](12-variables.md)
 * [13. Timers](13-timers.md)
+* [14. Basic commands](14-basic-commands-to-start-with.md)
+* [15 Shell commands](15-shell-commands.md)
 
