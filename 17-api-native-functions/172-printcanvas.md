@@ -8,5 +8,5 @@ Notes: This function prints the virtual canvas onto the physical cube's surface.
 
 Example: `PrintCanvas()`
 
-See also: [ClearCanvas](/17-api-native-functions/171-clearcanvas.md), [DrawPoint](/17-api-native-functions/178-drawpoint.md), FlashCanvas
+See also: [ClearCanvas](/17-api-native-functions/171-clearcanvas.md), [DrawPoint](/17-api-native-functions/178-drawpoint.md), [FlashCanvas](/17-api-native-functions/1725-flashcanvas.md)
 
