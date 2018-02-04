@@ -1,17 +1,17 @@
-# 17.25 FlashCanvas 
+# 17.25 FlashCanvas
 
-Prints virtual canvas to LEDs with fading attributes 
+Prints the virtual canvas to LEDs with fading attributes
 
 Syntax: `FlashCanvas(step=1,diff=3,exclusive=0)`
 
 * `step` indicates occurrence of fade towards frame counter, 
   * value 1 means proceed with fade every new frame
   * value 2 means every second frame
-* `diff` indicates what value will be subtracted from each color component every step exclusive if the parameter is set to 1, than LEDS are updated only if their value was zero. That means if they were for example still fading from previous call, their values are not overriden 
+* `diff` indicates what value will be subtracted from each color component every step exclusively if the parameter is set to 1, then LEDS are updated only if their value was zero. This means that if they were, for example, still fading from a previous call, their values are not overridden 
 
-Notes: This function is usually used for some graphical effects, where canvas is not needed to be updated so often 
+Notes: This function is usually used for some graphical effects, where canvas is not needed to be updated so often
 
-Example: `FlashCanvas` 
+Example: `FlashCanvas()`
 
-See also: PrintCanvas, ClearCube
+See also: [PrintCanvas](/17-api-native-functions/172-printcanvas.md), [ClearCube](/17-api-native-functions/1733-clearcube.md)
 
