@@ -1,6 +1,6 @@
 # ![](/assets/logo.jpg)
 
-## PAWN - embedded scripting language
+## &lt;p align="center"&gt;PAWN - embedded scripting language&lt;/p&gt;
 
 ![](/assets/Pawn_logo.png)
 
