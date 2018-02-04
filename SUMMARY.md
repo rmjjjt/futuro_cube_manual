@@ -45,4 +45,6 @@
   * [15.9 promptoff](15-shell-commands/159-promptoff.md)
   * [15.10 ver](15-shell-commands/1510-ver.md)
   * [15.11 appinfo](15-shell-commands/1511-appinfo.md)
+  * [15.12 play](15-shell-commands/1512-play.md)
+  * [15.13 dir](15-shell-commands/1513-dir.md)
 
