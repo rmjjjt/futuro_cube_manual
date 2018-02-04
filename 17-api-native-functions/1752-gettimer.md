@@ -14,5 +14,5 @@ Example:
 * `res=GetTimer(2)`, returns value of timer 2 
 * `if (!TimerGet(0))`
 
-See also: [SetTimer](/17-api-native-functions/1751-settimer.md), PauseTimer, ResumeTimer
+See also: [SetTimer](/17-api-native-functions/1751-settimer.md), [PauseTimer](/17-api-native-functions/1753-pausetimer.md), [ResumeTimer](/17-api-native-functions/1754-resumetimer.md)
 

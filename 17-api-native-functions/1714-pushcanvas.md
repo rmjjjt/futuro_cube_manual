@@ -15,5 +15,5 @@ Example:
 * `PushCanvas()`, push virtual canvas to array with index 0 
 * `PushCanvas(1)`, push canvas to array with index 1 
 
-See also: [PopCanvas](/17-api-native-functions/1715-popcanvas.md), Push, Pop, PushPopInit
+See also: [PopCanvas](/17-api-native-functions/1715-popcanvas.md), [Push](/17-api-native-functions/1760-push.md), [Pop](/17-api-native-functions/1761-pop.md), [PushPopInit](/17-api-native-functions/1759-pushpopinit.md)
 

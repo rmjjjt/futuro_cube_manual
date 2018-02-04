@@ -13,5 +13,5 @@ Notes: This function basically copies the virtual canvas to a user's array.
 
 Example: `CanvasToArray(temp)`, stores canvas to array temp
 
-See also: [ArrayToCanvas](/17-api-native-functions/1717-arraytocanvas.md), Push, Pop, PushPopInit
+See also: [ArrayToCanvas](/17-api-native-functions/1717-arraytocanvas.md), [Push](/17-api-native-functions/1760-push.md), [Pop](/17-api-native-functions/1761-pop.md), [PushPopInit](/17-api-native-functions/1759-pushpopinit.md)
 

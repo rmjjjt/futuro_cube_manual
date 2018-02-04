@@ -1,10 +1,10 @@
-# 17.19 PrintCnv 
+# 17.19 PrintCnv
 
-Debug function, print virtual canvas values to terminal 
+Debug function, print virtual canvas values to terminal
 
-Syntax: `PrintCnv() `
+Syntax: `PrintCnv()`
 
-Example: `PrintCnv() `
+Example: `PrintCnv()`
 
-See also: PrintArray, printf
+See also: PrintArray, [printf](/17-api-native-functions/1755-printf.md)
 
