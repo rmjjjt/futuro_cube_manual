@@ -49,4 +49,7 @@
   * [15.13 dir](15-shell-commands/1513-dir.md)
   * [15.14 q](15-shell-commands/1514-q.md)
   * 15.15 kill
+  * [15.16 tinfo](15-shell-commands/1516-tinfo.md)
+  * [15.17 pdir](15-shell-commands/1517-pdir.md)
+  * [15.18 prun](15-shell-commands/1518-prun.md)
 
