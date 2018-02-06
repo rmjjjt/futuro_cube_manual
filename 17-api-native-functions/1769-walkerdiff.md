@@ -19,5 +19,5 @@ Notes: `dx` and `dy` will contain values that represent the number of steps in e
 
 Example: `WalkerDiff(23, GetCursor(),dx,dy)`, difference from index 23 to actual cursor
 
-See also: WalkerStepTo, GetCursor, ReadAcc
+See also: [WalkerStepTo](/17-api-native-functions/1770-walkerstepto.md), GetCursor, ReadAcc
 
