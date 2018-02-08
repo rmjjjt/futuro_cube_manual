@@ -23,5 +23,5 @@ Notes: For proper functionionality, all sidetaps must be registered, because ins
 
 Example: `result=WalkerTap(w,up_down)`
 
-See also: WalkerDirUp
+See also: [WalkerDirUp](/17-api-native-functions/1777-walkerdirup.md)
 
