@@ -2,12 +2,13 @@
 
 Milliseconds from application start
 
-Syntax: `res=GetAppMsecs()` 
+Syntax: `res=GetAppMsecs()`
 
-Returns: Number of milliseconds from application start 
+Returns: Number of milliseconds from application start
 
-Example: 
+Example:
 
 * `res=GetAppMsecs()`
 
-See also: GetMsecs
+See also: [GetMsecs](/17-api-native-functions/1791-getmsecs.md)
+

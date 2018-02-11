@@ -15,5 +15,5 @@ Example:
 
 * `GetRnd(3)`, gives back numbers in range <0...2>
 
-See also: SetRndSeed
+See also: [SetRndSeed](/17-api-native-functions/1794-setrndseed.md)
 

@@ -1,14 +1,14 @@
-# 17.91 GetMsecs 
+# 17.91 GetMsecs
 
-Milliseconds from system start 
+Milliseconds from system start
 
-Syntax: `res=GetMsecs()` 
+Syntax: `res=GetMsecs()`
 
-Returns: Number of milliseconds from system start 
+Returns: Number of milliseconds from system start
 
-Example: 
+Example:
 
 * `res=GetMsecs()`
 
-See also: GetAppMsecs
+See also: [GetAppMsecs](/17-api-native-functions/1792-getappmsecs.md)
 

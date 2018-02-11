@@ -2,12 +2,13 @@
 
 Set random seed into random generator
 
-Syntax: `SetRndSeed(seed)` 
+Syntax: `SetRndSeed(seed)`
 
 * `seed` seed to random generator 
 
-Example: 
+Example:
 
 * `SetRandomSeed(500)`
 
-See also: GetRnd
+See also: [GetRnd](/17-api-native-functions/1795-getrnd.md)
+
