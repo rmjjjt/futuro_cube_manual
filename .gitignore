@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# IDE Generated files
+.idea
+
+# Mac Generated files
+.DS_Store
