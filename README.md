@@ -2,7 +2,7 @@
 
 ## 
 
-## PAWN - embedded scripting language - TEST
+## PAWN - embedded scripting language
 
 ![](/assets/Pawn_logo.png)
 
