@@ -169,4 +169,5 @@
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
+* [19. TEST chapter](19-test-chapter.md)
 
