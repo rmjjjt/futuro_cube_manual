@@ -40,10 +40,10 @@ def init_basic_shell(kill_clean=1):
 
     if (kill_clean):
        #"stdshell" in multiplex mode, see bellow  
-       cmd="\x53\x51\x00\x0a\x00\x73\x74\x64\x73\x68\x65\x6c\x6c\x0d\x70\x71\x00\x73"
+       cmd="SQ\x00\0x0a\x00stdshell\x0d\x70\x71\x00\x73"
     else:
        #"stdshellnk" in mulitplex mode, see bellow
-       cmd="\x53\x51\x00\x0c\x00\x73\x74\x64\x73\x68\x65\x6c\x6c\x6e\x6b\x0d\x49\x71\x00\x73"
+       cmd="\x53\x51\x00\x0c\x00\stdshellnk\x0d\x49\x71\x00\x73"
 
     sline.write(cmd)
     #we have to send once "\r" for case the multiplex was off
@@ -64,7 +64,7 @@ def init_basic_shell(kill_clean=1):
     #if you don't kill running script on cube, script can 
     #interfere with shell with its output, use only if you know, 
     #what you are doing :-)
-    ###################################################
+    ############################################################
 ```
 
 
