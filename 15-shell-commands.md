@@ -16,7 +16,7 @@ After each reset the shell restarts with these settings:
 | displaying prompt "**$&gt;**" | **ON** | toggle with "**prompton**", "**promptoff**" |
 | multiplexed packet mode | **DISABLED** | can be enabled for experiments (1) |
 | character speed | **ANY** | com port is virtual |
-| HW control flow \(RTS/CTS\) | **DISABLED** | other modes not supported |
+| HW control flow (RTS/CTS) | **DISABLED** | other modes not supported |
 
 (1) In multiplexed packet line mode RFC has internally several lines like SHELL LINE, BOOT LINE, NAND BOOT LINE, SCRIPT BOOT LINE and FAST/SLOW RAW MOTION DATA LINE. Those lines are multiplexed in separated packets with information like size and check sum. We can provide details upon request.
 
@@ -71,7 +71,7 @@ def init_basic_shell(kill_clean = 1):
   # if you don't kill a running script on cube, the script can 
   # interfere with the shell with its output - 
   # use only if you know what you are doing :-)
-################################################################
+  ##############################################################
 ```
 
 
