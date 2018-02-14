@@ -1,4 +1,4 @@
-# 15.1.2 stdshell
+# stdshell
 
 Sets the shell into its default state plus kills currently running script and clears the LEDs array. This command is useful in order to set the cube into standard behaviour and look.
 
@@ -6,5 +6,5 @@ Sets the shell into its default state plus kills currently running script and cl
 
 Syntax: `stdshell`
 
-See also: [Interactive shel](/15-shell-commands.md)l, 
+See also: [Interactive shel](/15-shell-commands.md)l,
 
