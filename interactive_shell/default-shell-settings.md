@@ -1,4 +1,4 @@
-# Default settings
+# Default shell settings
 
 Anytime USB is plugged into an active port, the cube gets reset to it's default state.  
 Unless it is connected to RFC Suite, the charging display is launched.  

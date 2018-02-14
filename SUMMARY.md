@@ -34,7 +34,7 @@
 * [13. Timers](13-timers.md)
 * [14. Basic commands](14-basic-commands-to-start-with.md)
 * [Interactive shell](interactive-shell.md)
-  * [Default settings](interactive_shell/default-settings.md)
+  * [Default shell settings](interactive_shell/default-shell-settings.md)
   * [Shell in RFC Suite](interactive_shell/shell-in-rfc-suite.md)
   * [Accessing shell any time](interactive_shell/configuring-shell.md)
   * [System shell commands](interactive_shell/system-shell-commands.md)
