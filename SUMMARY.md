@@ -34,8 +34,8 @@
 * [13. Timers](13-timers.md)
 * [14. Basic commands](14-basic-commands-to-start-with.md)
 * [Interactive shell](interactive-shell.md)
-  * Default settings
-* * [system shell commands](interactive_shell/system-shell-commands.md)
+  * [Default settings](interactive_shell/default-settings.md)
+  * [System shell commands](interactive_shell/system-shell-commands.md)
     * [sn](interactive-shell/system-shell-commands/sn.md)
     * [stdshell](interactive-shell/system-shell-commands/stdshell.md)
     * [stdshellnk](interactive-shell/system-shell-commands/stdshellnk.md)
