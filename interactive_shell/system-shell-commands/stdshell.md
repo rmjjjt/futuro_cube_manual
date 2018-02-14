@@ -6,5 +6,5 @@ Sets the shell into its default state plus kills currently running script and cl
 
 Syntax: `stdshell`
 
-
+see: 
 
