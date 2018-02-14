@@ -6,4 +6,5 @@ Sets the shell into its default state, BUT DOES NOT KILL running script and DOES
 
 Syntax: `stdshellnk`
 
+see:
 

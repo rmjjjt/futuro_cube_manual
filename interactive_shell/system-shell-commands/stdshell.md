@@ -6,5 +6,5 @@ Sets the shell into its default state plus kills currently running script and cl
 
 Syntax: `stdshell`
 
-see: [Default settings](/interactive_shell/default-settings.md)
+See: [Default shell settings](/interactive_shell/default-shell-settings.md)
 
