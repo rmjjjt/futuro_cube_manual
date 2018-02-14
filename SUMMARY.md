@@ -34,7 +34,8 @@
 * [13. Timers](13-timers.md)
 * [14. Basic commands](14-basic-commands-to-start-with.md)
 * [Interactive shell](interactive-shell.md)
- * [system shell commands](interactive_shell/system-shell-commands.md)
+  * Default settings
+* * [system shell commands](interactive_shell/system-shell-commands.md)
     * [sn](interactive-shell/system-shell-commands/sn.md)
     * [stdshell](interactive-shell/system-shell-commands/stdshell.md)
     * [stdshellnk](interactive-shell/system-shell-commands/stdshellnk.md)
@@ -72,6 +73,7 @@
   * [varpawn](interactive-shell/varpawn.md)
   * [varload](interactive-shell/varload.md)
   * [varpawnerase](interactive-shell/varpawnerase.md)
+* Default settings
 * [16. Shell cmd ”motion”](16-shell-cmd-motion.md)
 * [17. API-Native functions](17-api-native-functions.md)
   * [17.1 ClearCanvas](17-api-native-functions/171-clearcanvas.md)
@@ -172,4 +174,6 @@
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
+
+
 
