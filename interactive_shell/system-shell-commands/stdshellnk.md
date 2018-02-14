@@ -6,5 +6,4 @@ Sets the shell into its default state, BUT DOES NOT KILL running script and DOES
 
 Syntax: `stdshellnk`
 
-See also: [Interactive shell](/15-shell-commands.md), [stdshell](/15-shell-commands/151-system-shell-comands/1512-stdshell.md)
 
