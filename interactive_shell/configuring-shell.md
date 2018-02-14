@@ -1,7 +1,6 @@
 # Accessing shell any time
 
-If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition \(no need to cycle USB\).  
-The code is in python, but can be ported to any language you use. The idea is to send command `stdshell` in packet mode \(for cases the cube was in pac
+If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition \(no need to cycle USB\). The code is in python, but can be ported to any language you use. The idea is to send command [stdshell](/interactive-shell/system-shell-commands/stdshell.md) or [stdshellnk ](/interactive-shell/system-shell-commands/stdshellnk.md)in multiplexed packet mode \(for cases the cube was in this mode\) in order to switch it to default mode. 
 
 ```
 ##########################################
