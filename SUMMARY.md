@@ -36,7 +36,7 @@
 * [Interactive shell](interactive-shell.md)
   * [Default settings](interactive_shell/default-settings.md)
   * [Shell in RFC Suite](interactive_shell/shell-in-rfc-suite.md)
-  * [Accessing shell from any app](interactive_shell/configuring-shell.md)
+  * [Accessing shell any time](interactive_shell/configuring-shell.md)
   * [System shell commands](interactive_shell/system-shell-commands.md)
     * [sn](interactive-shell/system-shell-commands/sn.md)
     * [stdshell](interactive-shell/system-shell-commands/stdshell.md)

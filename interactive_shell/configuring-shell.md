@@ -1,4 +1,4 @@
-# Accessing shell from any app
+# Accessing shell any time
 
 If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition \(no need to cycle USB\).  
 The code is in python, but can be ported to any language you use.
