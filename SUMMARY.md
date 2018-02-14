@@ -35,6 +35,7 @@
 * [14. Basic commands](14-basic-commands-to-start-with.md)
 * [Interactive shell](interactive-shell.md)
   * [Default settings](interactive_shell/default-settings.md)
+  * [Shell in RFC Suite](interactive_shell/shell-in-rfc-suite.md)
   * [System shell commands](interactive_shell/system-shell-commands.md)
     * [sn](interactive-shell/system-shell-commands/sn.md)
     * [stdshell](interactive-shell/system-shell-commands/stdshell.md)
@@ -174,6 +175,4 @@
 * [18. Release notes](18-release-notes.md)
   * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
   * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
-
-
 
