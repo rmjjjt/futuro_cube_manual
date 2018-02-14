@@ -1,4 +1,4 @@
-# 1 Licenses {#1-licenses}
+# 1 Licenses
 
 ## 1.1 Seven Towns Ltd.
 
