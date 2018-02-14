@@ -68,7 +68,7 @@
   * [15.33 varpawn](15-shell-commands/1533-varpawn.md)
   * [15.34 varload](15-shell-commands/1534-varload.md)
   * [15.35 varpawnerase](15-shell-commands/1535-varpawnerase.md)
-  * [System commands](15-shell-commands/151-system-shell-comands.md)
+  * [System shell commands](15-shell-commands/151-system-shell-comands.md)
     * [sn](15-shell-commands/151-system-shell-comands/1511-sn.md)
     * [stdshell](15-shell-commands/151-system-shell-comands/1512-stdshell.md)
     * [stdshellnk](15-shell-commands/151-system-shell-comands/1513-stdshellnk.md)
