@@ -1,8 +1,4 @@
-# System shell commads
-
-
-
-
+# System shell commands
 
 
 
