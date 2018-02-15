@@ -57,6 +57,8 @@
     * [stackinfo](interactive_shell/system-shell-commands/stackinfo.md)
     * [getms](interactive_shell/system-shell-commands/getms.md)
     * [setms](interactive_shell/system-shell-commands/setms.md)
+  * Video shell commands
+    * [iic](interactive_shell/iic.md)
   * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)
@@ -85,7 +87,7 @@
   * [var](interactive_shell/var.md)
   * [varpawn](interactive_shell/varpawn.md)
   * [varload](interactive_shell/varload.md)
-  * [varpawnerase](interactive_shell/varpawnerase.md)
+  * Video shell commands
 * [16. Shell cmd ”motion”](16-shell-cmd-motion.md)
 * [17. API-Native functions](17-api-native-functions.md)
   * [17.1 ClearCanvas](17-api-native-functions/171-clearcanvas.md)
