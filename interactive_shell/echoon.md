@@ -1,4 +1,4 @@
-# 15.6 echoon
+# echoon
 
 Enables echo of every character on shell line.
 
