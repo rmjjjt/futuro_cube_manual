@@ -46,6 +46,7 @@
     * [echooff](interactive_shell/echooff.md)
     * [prompton](interactive_shell/prompton.md)
     * [promptoff](interactive_shell/promptoff.md)
+    * [boot](interactive_shell/system-shell-commands/boot.md)
   * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)
