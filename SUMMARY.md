@@ -56,6 +56,7 @@
     * [isprotected](interactive_shell/system-shell-commands/isprotected.md)
     * [stackinfo](interactive_shell/system-shell-commands/stackinfo.md)
     * [getms](interactive_shell/system-shell-commands/getms.md)
+    * [setms](interactive_shell/system-shell-commands/setms.md)
   * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)
