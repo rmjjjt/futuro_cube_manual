@@ -1,6 +1,6 @@
 # bident
 
-Displays bootloader identification. 
+Displays bootloader identification.
 
 Syntax: `bident`
 
