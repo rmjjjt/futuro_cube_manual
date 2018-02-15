@@ -60,8 +60,8 @@
   * Video shell commands
     * [iic](interactive_shell/iic.md)
     * [clr](interactive_shell/clr.md)
-  * [pled](interactive_shell/pled.md)
-  * [pleds](interactive_shell/pleds.md)
+    * [pled](interactive_shell/pled.md)
+    * [pleds](interactive_shell/pleds.md)
   * [pledarr](interactive_shell/pledarr.md)
   * [appinfo](interactive_shell/appinfo.md)
   * [play](interactive_shell/play.md)
