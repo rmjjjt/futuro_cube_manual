@@ -50,6 +50,7 @@
     * [restart](interactive_shell/system-shell-commands/restart.md)
     * [appinfo](interactive_shell/system-shell-commands/appinfo.md)
     * [fwident\(r\)](interactive_shell/system-shell-commands/fwidentr.md)
+    * [cpuident](interactive_shell/system-shell-commands/cpuident.md)
   * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)

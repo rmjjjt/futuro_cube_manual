@@ -1,6 +1,6 @@
 # fwident\(r\)
 
-Displays FW header information in hexadecimal array or human readable form. 
+Displays FW header information in hexadecimal array or human readable form.
 
 Syntax: `fwident`,`fwidentr`
 
