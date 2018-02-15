@@ -59,7 +59,7 @@
     * [setms](interactive_shell/system-shell-commands/setms.md)
   * Video shell commands
     * [iic](interactive_shell/iic.md)
-  * [clr](interactive_shell/clr.md)
+    * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)
   * [pledarr](interactive_shell/pledarr.md)

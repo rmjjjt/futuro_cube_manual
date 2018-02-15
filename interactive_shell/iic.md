@@ -1,6 +1,6 @@
 # iic
 
-Checks I2C communication from main CPU to all 
+Checks I2C communication from main CPU to all sides. All errors and nacks are counted and added.
 
 Syntax: `iic`
 
@@ -16,8 +16,6 @@ not finished frames: 1
 __OK__
 $>
 ```
-
-
 
 
 
