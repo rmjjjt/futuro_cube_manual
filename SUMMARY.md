@@ -54,6 +54,8 @@
     * [bident](interactive_shell/system-shell-commands/bident.md)
     * [protection](interactive_shell/system-shell-commands/protection.md)
     * [isprotected](interactive_shell/system-shell-commands/isprotected.md)
+    * [stackinfo](interactive_shell/system-shell-commands/stackinfo.md)
+    * [getms](interactive_shell/system-shell-commands/getms.md)
   * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)
