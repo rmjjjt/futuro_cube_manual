@@ -47,6 +47,8 @@
     * [prompton](interactive_shell/prompton.md)
     * [promptoff](interactive_shell/promptoff.md)
     * [boot](interactive_shell/system-shell-commands/boot.md)
+    * [restart](interactive_shell/system-shell-commands/restart.md)
+    * [appinfo](interactive_shell/system-shell-commands/appinfo.md)
   * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)
