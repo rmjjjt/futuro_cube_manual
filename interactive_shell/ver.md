@@ -1,4 +1,4 @@
-# 15.10 ver
+# ver
 
 Gives back version of FW and HW.
 
