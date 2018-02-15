@@ -1,15 +1,11 @@
 # getms
 
-Display information about stack of main FW, namely its main process. This stack is mainly used by shell interpreter and mostly by commands, that are working with NAND memory. 
-
-Syntax: `stackinfo`
+Reads system time in mili seconds. This is the time from last RESET. Reset is usually caused by USB cycle. 
 
 ```
-$>stackinfo
-Main STACK info:
-Total size in bytes: 8000
-not used bytes: 3344, 41% free
-
+$>getms
+931159
+__OK__
 $>
 ```
 
