@@ -51,6 +51,7 @@
     * [appinfo](interactive_shell/system-shell-commands/appinfo.md)
     * [fwident\(r\)](interactive_shell/system-shell-commands/fwidentr.md)
     * [cpuident](interactive_shell/system-shell-commands/cpuident.md)
+    * [bident](interactive_shell/system-shell-commands/bident.md)
   * [clr](interactive_shell/clr.md)
   * [pled](interactive_shell/pled.md)
   * [pleds](interactive_shell/pleds.md)
