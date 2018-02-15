@@ -12,5 +12,5 @@ __OK__
 $>
 ```
 
-See also: [getms](/interactive_shell/system-shell-commands/getms.md)
+See also: [getms](/interactive-shell/system-shell-commands/getms.md)
 

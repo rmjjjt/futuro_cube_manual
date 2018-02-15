@@ -11,5 +11,5 @@ __OK__
 $>
 ```
 
-See also: [setms](/interactive_shell/system-shell-commands/setms.md)
+See also: [setms](/interactive-shell/system-shell-commands/setms.md)
 
