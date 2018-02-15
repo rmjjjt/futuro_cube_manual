@@ -1,6 +1,6 @@
-# 15.9 promptoff
+# promptoff
 
-Disables prompt.
+Disables output of **"$&gt;" **prompt.
 
 Syntax: `promptoff`
 

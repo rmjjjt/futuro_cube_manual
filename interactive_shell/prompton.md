@@ -1,6 +1,6 @@
-# 15.8 prompton
+# prompton
 
-Enables prompt \(default\).
+Enables output of **"$&gt;"** prompt \(default\). 
 
 Syntax: `prompton`
 

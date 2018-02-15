@@ -1,6 +1,14 @@
-# 15.1 clr
+# clr
 
-Clears video memory at cube.
+Clears video memory at cube with immediate effect.
 
 Syntax: `clr`
+
+```
+$>clr
+__OK__
+$>
+```
+
+
 
