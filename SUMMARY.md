@@ -57,7 +57,7 @@
     * [stackinfo](interactive-shell/system-shell-commands/stackinfo.md)
     * [getms](interactive-shell/system-shell-commands/getms.md)
     * [setms](interactive-shell/system-shell-commands/setms.md)
-  * Video shell commands
+  * [Video shell commands](interactive-shell/video-shell-commands.md)
     * [iic](interactive-shell/video-shell-commands/iic.md)
     * [clr](interactive-shell/video-shell-commands/clr.md)
     * [pled](interactive-shell/video-shell-commands/pled.md)
