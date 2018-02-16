@@ -1,4 +1,4 @@
-# 6.1 Ram
+# Ram
 
 In this area, scripts are sharing data, code and stack. 
 

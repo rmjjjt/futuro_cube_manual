@@ -1,4 +1,4 @@
-# 6.5 Multiple scripts support - from FW 4.5 and RFC 0.8
+# Multiple scripts support - from FW 4.5 and RFC 0.8
 
 From version 0.8, Rubik’s Futuro Cube Suite supports \(together with FW at least 4.5\) mechanism to upload multiple scripts. This operation can be performed only over compiled AMX files which are not MyCube. 
 

@@ -1,4 +1,4 @@
-# 7.4 Packed and unpacked strings 
+# Packed and unpacked strings 
 
 PAWN uses packed and unpacked strings. 
 

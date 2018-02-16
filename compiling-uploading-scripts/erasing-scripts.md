@@ -1,4 +1,4 @@
-# 6.7 Erasing scripts 
+# Erasing scripts 
 
 Scripts in RAM are automatically erased each time the USB cable is plugged in. Scripts in the Flash or MyCube area can be erased in several ways:
 

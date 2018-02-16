@@ -1,4 +1,4 @@
-# 18.1 SDK manual
+# SDK manual
 
 Release notes for SDK manual document version 1.4
 

@@ -1,4 +1,4 @@
-# 7.2 Operator sizeof 
+# Operator sizeof 
 
 Many functions are using `sizeof` operator as one of the default values. 
 
