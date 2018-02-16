@@ -18,5 +18,5 @@ Example:
 * `WalkerTurn(walk)`turns walk to the right 
 * `WalkerTurn(walk),TURN LEFT)`turns walk to the left
 
-See also: WalkerPlace, [WalkerMove](/api-native-functions/walkermove.md)
+See also: [WalkerMove](/api-native-functions/walkermove.md)
 

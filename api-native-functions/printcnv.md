@@ -6,5 +6,5 @@ Syntax: `PrintCnv()`
 
 Example: `PrintCnv()`
 
-See also: PrintArray, [printf](/api-native-functions/printf.md)
+See also: [PrintArray](/api-native-functions/printarray.md), [printf](/api-native-functions/printf.md)
 
