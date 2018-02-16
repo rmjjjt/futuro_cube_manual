@@ -2,8 +2,8 @@
 
 * [Cover](README.md)
 * [Licenses](/licenses.md)
-  * [Seven Towns Ltd.](licenses.md#seven-towns-ltd.-{#seven-towns})
-  * [Pawn](licenses.md#pawn-{#pawn})
+  * [Seven Towns Ltd.](/licenses.md#seven-towns-ltd.-{#seven-towns})
+  * [Pawn](/licenses.md#pawn-{#pawn})
   * [Exception clause to the Apache License version 2.0](/licenses.md#exception-clause-to-the-apache-license-version-2.0-{#exception})
 * [Introduction](/introduction.md)
 * [Hello World](/hello-world.md)
