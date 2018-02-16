@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 * [Licenses](/licenses.md#licenses)
 * [Hello World](/hello-world.md)
 * [Walkers, Squares, Indexes](/walkers-squares-indexes.md)
