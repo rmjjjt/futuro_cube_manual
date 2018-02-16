@@ -203,4 +203,13 @@
 * [Release notes](release-notes.md)
   * [SDK manual](release-notes/sdk-manual.md)
   * [futurocube.inc](release-notes/futurocubeinc.md)
+* Examples
+  * [Cursor](examples/cursor.md)
+  * [Tapping](examples/tapping.md)
+  * [Walker](examples/walker.md)
+  * [Paint My Cube](examples/paint-my-cube.md)
+  * [Animated Rubiks Cube](examples/animated-rubiks.md)
+  * [Disco Cube](examples/disco-cube.md)
+  * [Motion](examples/motion.md)
+  * [Defuser](examples/defuser.md)
 
