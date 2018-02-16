@@ -87,7 +87,6 @@
   * [var](interactive-shell/var.md)
   * [varpawn](interactive-shell/varpawn.md)
   * [varload](interactive-shell/varload.md)
-  * Video shell commands
 * [16. Shell cmd ”motion”](16-shell-cmd-motion.md)
 * [17. API-Native functions](17-api-native-functions.md)
   * [17.1 ClearCanvas](17-api-native-functions/171-clearcanvas.md)
