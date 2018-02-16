@@ -14,4 +14,4 @@ RUBIK’S ® is a trademark of Seven Towns Ltd. Used under license. All Rights R
 
 Princip a.s., Copyright © 2013 Princip a.s., All Rights Reserved.
 
-[www.futurocube.com](/www.futurocube.com)
+[www.futurocube.com](http://www.futurocube.com)
