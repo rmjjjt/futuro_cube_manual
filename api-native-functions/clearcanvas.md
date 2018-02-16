@@ -1,4 +1,4 @@
-# 17.1 ClearCanvas
+# ClearCanvas
 
 Clear virtual canvas
 

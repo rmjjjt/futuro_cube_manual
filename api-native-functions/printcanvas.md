@@ -1,4 +1,4 @@
-# 17.2 PrintCanvas
+# PrintCanvas
 
 Print virtual canvas to the physical cube surface, turns on LEDs
 

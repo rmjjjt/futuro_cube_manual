@@ -1,4 +1,4 @@
-# 17.6 Basic color definition 
+# Basic color definition 
 
 Definition of basic colors
 

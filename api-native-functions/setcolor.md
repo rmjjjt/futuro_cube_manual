@@ -1,4 +1,4 @@
-# 17.4 SetColor
+# SetColor
 
 Set the current color
 

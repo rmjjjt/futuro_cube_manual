@@ -1,4 +1,4 @@
-# 17.9 DrawPC
+# DrawPC
 
 Draw point with given color and intensity
 

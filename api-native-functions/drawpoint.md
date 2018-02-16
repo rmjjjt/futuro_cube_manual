@@ -1,4 +1,4 @@
-# 17.8 DrawPoint
+# DrawPoint
 
 Draw point of current color to virtual canvas
 

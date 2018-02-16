@@ -11,4 +11,3 @@ Example:
 * `SetRandomSeed(500)`
 
 See also: [GetRnd](/api-native-functions/getrnd.md)
-

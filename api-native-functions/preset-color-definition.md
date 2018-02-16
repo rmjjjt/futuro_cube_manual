@@ -1,4 +1,4 @@
-# 17.5 Preset color definition 
+# Preset color definition 
 
 Definition of presets colors for classic cube puzzles 
 
