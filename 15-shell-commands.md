@@ -1,30 +1,32 @@
-# 15 Shell commands
+# 15 Interactive shell
 
-When Rubik’s Futuro Cube is connected to Rubik’s Futuro Suite, it is possible to switch to SDK mode and access shell commands.
+When Rubik’s Futuro Cube is connected to PC, it is possible to communicate with the cube using interactive command shell.
 
-Shell is available for other applications as well, because USB provides **VIRTUAL COM PORT**. RFCSuite communicates with the cube using more complicated multiplexed packets. Before accessing the shell from other applications it is recommended to cycle USB to reset communication on character basis. Note that in this case, characters are not automatically sent back to the terminal. Use command `echoon` if needed.
+Shell can easily accessed from Rubik's Futuro Cube Suite, but is available for other applications as well, beacuse USB communication on cube provides common **VIRTUAL COM PORT**.
+
+Before accessing the shell from other applications it is recommended to cycle USB to reset communication on character basis. This eventually resets more complex communication scheme   Note that in this case, characters are not automatically sent back to the terminal. Use command `echoon` if needed.
 
 ## Default shell settings
 
-Anytime USB is plugged into an active port, the cube gets reset to it's default state. 
-Unless it is connected to RFC Suite, the charging display is launched.
-If you open a VIRTUAL COM PORT device provided by RFC, you can type commands and receive answers. 
+Anytime USB is plugged into an active port, the cube gets reset to it's default state.  
+Unless it is connected to RFC Suite, the charging display is launched.  
+If you open a VIRTUAL COM PORT device provided by RFC, you can type commands and receive answers.  
 After each reset the shell restarts with these settings:
 
 | echoing characters on line | **OFF** | toggle it with "**echoon**", "**echoff**" |
 | :--- | :--- | :--- |
 | displaying prompt "**$&gt;**" | **ON** | toggle with "**prompton**", "**promptoff**" |
-| multiplexed packet mode | **DISABLED** | can be enabled for experiments (1) |
+| multiplexed packet mode | **DISABLED** | can be enabled for experiments \(1\) |
 | character speed | **ANY** | com port is virtual |
-| HW control flow (RTS/CTS) | **DISABLED** | other modes not supported |
+| HW control flow \(RTS/CTS\) | **DISABLED** | other modes not supported |
 
-(1) In multiplexed packet line mode RFC has internally several lines like SHELL LINE, BOOT LINE, NAND BOOT LINE, SCRIPT BOOT LINE and FAST/SLOW RAW MOTION DATA LINE. Those lines are multiplexed in separated packets with information like size and check sum. We can provide details upon request.
+\(1\) In multiplexed packet line mode RFC has internally several lines like SHELL LINE, BOOT LINE, NAND BOOT LINE, SCRIPT BOOT LINE and FAST/SLOW RAW MOTION DATA LINE. Those lines are multiplexed in separated packets with information like size and check sum. We can provide details upon request.
 
 ## Shell in RFC Suite
 
-SDK view in RFC Suite offers direct access to the cube shell. Everything is set and ready to go as soon as you switch to this mode.
-You can test all available shell commands very easily there. 
-**It is important to mention, that RFC Suite turns ON multiplexed packet mode and does not turn it OFF! 
+SDK view in RFC Suite offers direct access to the cube shell. Everything is set and ready to go as soon as you switch to this mode.  
+You can test all available shell commands very easily there.  
+**It is important to mention, that RFC Suite turns ON multiplexed packet mode and does not turn it OFF!  
 Therefore this must be kept in mind if other proprietary apps wants to access the shell right after the cube has been connected to RFC Suite.**
 
 ![](/assets/ViewSDKmode.jpg)
@@ -33,7 +35,7 @@ Therefore this must be kept in mind if other proprietary apps wants to access th
 
 ## Setting shell to default from any app
 
-If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition (no need to cycle USB). 
+If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition \(no need to cycle USB\).  
 The code is in python, but can be ported to any language you use.
 
 ```
