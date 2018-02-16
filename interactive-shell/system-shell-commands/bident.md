@@ -11,6 +11,3 @@ HWBOOTIDENT: 1.3DC
 __OK__
 $>
 ```
-
-
-

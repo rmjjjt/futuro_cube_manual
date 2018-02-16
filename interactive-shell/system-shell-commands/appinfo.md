@@ -1,6 +1,6 @@
 # appinfo
 
-Displays various information about FW and its memory map/usage.
+Displays various information about FW and it's memory map/usage.
 
 Syntax: `appinfo`
 
@@ -34,6 +34,3 @@ ebss: 0x2000ed78
 
 $>
 ```
-
-
-

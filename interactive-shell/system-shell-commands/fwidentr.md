@@ -1,4 +1,4 @@
-# fwident\(r\)
+# fwident(r)
 
 Displays FW header information in hexadecimal array or human readable form.
 
@@ -23,6 +23,3 @@ fw_name: PRINCIP CUBE CM STD
 __OK__
 $>
 ```
-
-
-

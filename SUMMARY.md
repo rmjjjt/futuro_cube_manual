@@ -39,7 +39,7 @@
   * [Accessing shell any time](interactive-shell/configuring-shell.md)
   * [System shell commands](interactive-shell/system-shell-commands.md)
     * [sn](interactive-shell/system-shell-commands/sn.md)
-    * [ver](interactive-shell/ver.md)
+    * [ver](interactive-shell/system-shell-commands/ver.md)
     * [stdshell](interactive-shell/system-shell-commands/stdshell.md)
     * [stdshellnk](interactive-shell/system-shell-commands/stdshellnk.md)
     * [echoon](interactive-shell/system-shell-commands/echoon.md)
