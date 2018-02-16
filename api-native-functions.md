@@ -103,3 +103,6 @@
 * [DrawDigit](api-native-functions/drawdigit.md)
 * [IsGameResetRequest](api-native-functions/isgameresetrequest.md)
 * [Vibrate](api-native-functions/vibrate.md)
+* [Icon](api-native-functions/icon.md)
+* [PrintArray](api-native-functions/printarray.md)
+* [VariableMagics](api-native-functions/variablemagics.md)
