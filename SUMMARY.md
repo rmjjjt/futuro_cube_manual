@@ -1,6 +1,5 @@
 # Summary
 
-* [Information](cover.jpg)
 * [Licenses](/licenses.md#licenses)
 * [Introduction](/introduction.md)
 * [Hello World](/hello-world.md)
