@@ -1,6 +1,6 @@
-# 15.18 prun 
+# prun
 
-Start script in RAM 
+Start script in RAM
 
 Syntax: `prun`
 

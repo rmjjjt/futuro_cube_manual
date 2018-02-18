@@ -1,6 +1,6 @@
-# 15.19 prunf 
+# prunf
 
-Start script in FLASH 
+Start script in FLASH
 
 Syntax: `prunf`
 

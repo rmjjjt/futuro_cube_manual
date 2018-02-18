@@ -1,6 +1,6 @@
-# 15.31 amxinfo 
+# amxinfo
 
-Displays info about stacks and data when the script is running. 
+Displays info about stacks and data when the script is running.
 
 Syntax: `amxinfo`
 

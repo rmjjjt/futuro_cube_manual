@@ -1,6 +1,6 @@
-# 15.13 dir 
+# dir
 
-List all sound resources on NAND FLASH 
+List all sound resources on NAND FLASH
 
 Syntax: `dir`
 

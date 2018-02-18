@@ -1,6 +1,6 @@
-# 15.15 kill 
+# kill
 
-Kill currently running script or game. 
+Kill currently running script or game.
 
 Syntax: `kill`
 

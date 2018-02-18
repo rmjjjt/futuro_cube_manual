@@ -1,6 +1,6 @@
-# 15.23 pawneraseflash 
+# pawneraseflash
 
-Erases scripts in FLASH - from FW 4.5 
+Erases scripts in FLASH - from FW 4.5
 
 Syntax: `pawneraseflash`
 

@@ -1,6 +1,6 @@
-# 15.17 pdir 
+# pdir
 
-Lists of all installed scripts with details and indexes - from FW 4.5 
+Lists of all installed scripts with details and indexes - from FW 4.5
 
 Syntax: `pdir`
 

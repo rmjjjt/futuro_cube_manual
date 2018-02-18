@@ -1,4 +1,4 @@
-# 15.4 pledarr
+# pledarr
 
 Putting all LED values in an array at once.
 

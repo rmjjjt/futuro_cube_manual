@@ -1,6 +1,6 @@
-# 15.12 play 
+# play
 
-Plays sound resources from NAND FLASH 
+Plays sound resources from NAND FLASH
 
 Syntax: `play HAVOK`
 

@@ -1,6 +1,6 @@
-# 15.30 picon 
+# picon
 
-Displays info if **ICON** information is present in script FLASH area. 
+Displays info if **ICON** information is present in script FLASH area.
 
 Syntax: `picon`
 

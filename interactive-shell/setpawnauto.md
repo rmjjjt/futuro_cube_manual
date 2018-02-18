@@ -1,4 +1,4 @@
-# 15.28 setpawnauto
+# setpawnauto
 
 Auto script start for multiple scripts - from FW 4.5
 
@@ -10,7 +10,7 @@ Syntax: `setpawnauto event source [index]`
 
 Example:
 
-* `setpawnauto std`, resets everything to default 
+* `setpawnauto std`, resets everything to default
 
 * `setpawnauto menu flash 2`, sets script of index 2 in FLASH to be automatically started prior to menu
 
