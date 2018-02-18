@@ -211,4 +211,5 @@
   * [Disco Cube](examples/disco-cube.md)
   * [Motion](examples/motion.md)
   * [Defuser](examples/defuser.md)
+  * [SScanf](examples/sscanf.md)
 
