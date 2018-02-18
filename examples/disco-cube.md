@@ -1,3 +1,5 @@
+# Disco Cube Example
+
 This example shows an easy way to determine the time of a tap and how to (not completely accurately) extrapolate it to future time.
 It does not use mean deviation, so after while it is little bit off beat. If you give 8 taps in a row, cube continues in
 given rhythm. Double tap resets the rhythm and a new one can be entered by another 8 taps.

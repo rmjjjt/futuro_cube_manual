@@ -1,3 +1,5 @@
+# Music Player Example
+
 An example of a simple player that plays all files in the directory JUKEBOX
 if JUKEBOX does not exist, it plays all files from main resources (if they do exist)
 Jukebox directory and all audio files can be downloaded from [here](http://isle.princip.cz/download/futurocube/sdk_examples/mplayer.zip)

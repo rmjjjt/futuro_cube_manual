@@ -1,8 +1,10 @@
+# Animated Rubik's Cube Example
+
 This example shows the simple implementation of rubik's cube with animated rotations.
 Direction of rotation is determined by the inclination of the tapped side.
 SolveDir function reads accelerometer data and compares it with threshold "ACC_THRESHOLD"
 for direction. Also each move is stored into a variable, so the progress is never lost.
-Example of correct use of ICON() is demonstrated as well. 
+Example of correct use of ICON() is demonstrated as well.
 Note that definition of icon[] must be placed in global namespace!
 
 ```

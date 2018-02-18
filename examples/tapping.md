@@ -1,4 +1,6 @@
-This example shows how to easily setup taps to sides to be recognized. 
+# Tapping Example
+
+This example shows how to easily setup taps to sides to be recognized.
 Also, double tap signal is used for lighting up the entire cube.
 It also shows how to use palette colors and how to set up them from arrays. Palette colors are those
 represented by a number lower than 256. (lower 8-bits at color value)

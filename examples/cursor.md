@@ -1,3 +1,5 @@
+# Cursor Example
+
 Simple example that shows how to get position of cursor and draw it onto the cube.
 Color is created each time when the cursor is placed. Function printf can be used
 for various debugging purposes. This example also shows the typical drawing sequence, which

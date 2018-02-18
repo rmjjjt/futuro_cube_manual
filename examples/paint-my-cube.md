@@ -1,3 +1,5 @@
+# Paint MyCube Example
+
 This example shows a simple application for painting on the cube with several commands. Serves
 perfectly as a MYCUBE script example. A tap from the side changes color of the brush, a tap from the
 top draws with the selected brush. A double tap from the top fills the top side. A double tap from
