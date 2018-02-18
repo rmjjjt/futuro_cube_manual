@@ -24,5 +24,5 @@ Please follow the instructions at:
 
 The SDK will need some testing and we will react immediately to reported bugs.
 
-Do not hesitate to write us either using the contact form on our website, or email us directly: [info@futurocube.com](/info@futurocube.com)
+Do not hesitate to write us either using the contact form on our website, or email us directly: <info@futurocube.com>
 
