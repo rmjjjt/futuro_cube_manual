@@ -85,7 +85,7 @@
   * [varload](interactive-shell/varload.md)
 * [Shell cmd ”motion”](shell-cmd-motion.md)
 * [API-Native functions](api-native-functions.md)
-  * Graphics {api-graphics}
+  * Graphics
     * ClearVirtualDisplay
     * PrintVirtualDisplay
     * SetPointShine
@@ -117,7 +117,7 @@
     * [PaletteFromArray](api-native-functions/palettefromarray.md)
     * [DrawTail](api-native-functions/drawtail.md)
     * RotateCanvasRGB
-  * [Motion](api-native-functions/motion.md) {api-motion}
+  * [Motion](api-native-functions/motion.md)
     * [Motion pattern type list definition](api-native-functions/motion-pattern-type-list-definition.md)
     * [RegMotion](api-native-functions/regmotion.md)
     * ReadMotion
@@ -146,7 +146,7 @@
     * CalcSurfaceDistance3DPointTo3DLine
     * CalcSurfaceDistanceAccTo3DLine
     * MapSideSquareTo3DPoint
-  * Walkers {api-walkers}
+  * Walkers
     * [WalkerMove](api-native-functions/walkermove.md)
     * [WalkerTurn](api-native-functions/walkerturn.md)
     * [WalkerDiff](api-native-functions/walkerdiff.md)
@@ -162,19 +162,19 @@
     * [WalkerDirUp](api-native-functions/walkerdirup.md)
     * [WalkerCompareDir](api-native-functions/walkercomparedir.md)
     * [Walker Init / _w](api-native-functions/w.md)
-  * Scores {api-scores}
+  * Scores
     * [Score Definition](api-native-functions/score-definition.md)
     * SetScore
     * SetAP
     * GetAP
     * GetPS
     * AnnounceBestScore
-  * Precise Timing {api-timing}
+  * Precise Timing
     * EnablePreciseTiming
     * TimerIncSet
     * TimerIncGet
     * SetAppMsec
-  * Sound {api-sound}
+  * Sound
     * [Play](api-native-functions/play.md)
     * [SetAudioForce](api-native-functions/setaudioforce.md)
     * [SetVolume](api-native-functions/setvolume.md)
@@ -194,7 +194,7 @@
     * FFTOn
     * FFTOff
     * GetFFTCoeff
-  * Radio {api-radio}
+  * Radio
     * RadioInit
     * RadioMessage
     * RadioMsgWritable
@@ -215,7 +215,7 @@
     * ClearPreciseUsTimer
     * BleFlush
     * BleTextTx
-  * Misc {api-misc}
+  * Misc
     * [Sleep](api-native-functions/sleep.md)
     * [Delay](api-native-functions/delay.md)
     * [SetTimer](api-native-functions/settimer.md)
@@ -264,7 +264,7 @@
     * Shell
     * [Useful Macros](api-native-functions/usefulmacros.md)
     * [Macros Examples](api-native-functions/macro-examples.md)
-  * Uncategorized {api-no-cat}
+  * Uncategorized
     * [ClearCanvas](api-native-functions/clearcanvas.md)
     * [PrintCanvas](api-native-functions/printcanvas.md)
     * [SetIntensity](api-native-functions/setintensity.md)
