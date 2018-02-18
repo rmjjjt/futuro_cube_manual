@@ -1,6 +1,6 @@
 # Accessing shell any time
 
-If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition \(no need to cycle USB\). The code is in python, but can be ported to any language you use. The idea is to send command [stdshell ](/interactive_shell/system-shell-commands/stdshell.md)or [stdshellnk](/interactive_shell/system-shell-commands/stdshellnk.md)[ ](/interactive-shell/system-shell-commands/stdshellnk.md)in multiplexed packet mode \(for cases the cube was in this mode\) in order to switch it to default mode.
+If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition (no need to cycle USB). The code is in python, but can be ported to any language you use. The idea is to send command [stdshell ](/interactive_shell/system-shell-commands/stdshell.md)or [stdshellnk](/interactive_shell/system-shell-commands/stdshellnk.md)[ ](/interactive-shell/system-shell-commands/stdshellnk.md)in multiplexed packet mode (for cases the cube was in this mode) in order to switch it to default mode.
 
 ```
 ##########################################
@@ -12,7 +12,7 @@ def init_basic_shell(kill_clean = 1):
   sline.timeout = 0
 
   if (kill_clean):
-    #"stdshell" in multiplex mode, see below  
+    #"stdshell" in multiplex mode, see below
     cmd = "SQ\x00\0x0a\x00stdshell\x0d\x70\x71\x00\x73"
   else:
     #"stdshellnk" in mulitplex mode, see below
@@ -34,8 +34,8 @@ def init_basic_shell(kill_clean = 1):
   # and let running apps continue,
   # use "stdshellnk" instead (kill_clean=0)
   ##############################################################
-  # if you don't kill a running script on cube, the script can 
-  # interfere with the shell with its output - 
+  # if you don't kill a running script on cube, the script can
+  # interfere with the shell with its output -
   # use only if you know what you are doing :-)
   ##############################################################
 ```

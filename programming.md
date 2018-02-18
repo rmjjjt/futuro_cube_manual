@@ -2,7 +2,7 @@
 
 The script interpreter runs as a separate task in the cube as well as any other games.
 
-Good behavior of the script is to perform so called co-operative multitasking. That means, after you do what you needed to, you should use the `Sleep()` function. If `Sleep()` is not used, nothing bad happen - the system will cut out the script for a while and give some time for system tasks.
+Good practice in a script is to perform so called co-operative multitasking. That means, after you have done what you needed to, you should use the `Sleep()` function. If `Sleep()` is not used, nothing bad will happen - the system will cut out the script for a while and give some time to system tasks.
 
 If the script is not complicated, no one will ever notice that `Sleep()` isn't called.
 

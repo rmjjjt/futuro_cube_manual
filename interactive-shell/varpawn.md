@@ -1,6 +1,6 @@
-# 15.33 varpawn 
+# 15.33 varpawn
 
-Prints out variables that have prefix P \(PAWN variables\) 
+Prints out variables that have prefix P (PAWN variables)
 
 Syntax: `varpawn`
 

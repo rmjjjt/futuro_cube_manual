@@ -45,7 +45,7 @@
     * [boot](interactive-shell/system-shell-commands/boot.md)
     * [restart](interactive-shell/system-shell-commands/restart.md)
     * [appinfo](interactive-shell/system-shell-commands/appinfo.md)
-    * [fwident\(r\)](interactive-shell/system-shell-commands/fwidentr.md)
+    * [fwident(r)](interactive-shell/system-shell-commands/fwidentr.md)
     * [cpuident](interactive-shell/system-shell-commands/cpuident.md)
     * [bident](interactive-shell/system-shell-commands/bident.md)
     * [protection](interactive-shell/system-shell-commands/protection.md)
@@ -85,120 +85,209 @@
   * [varload](interactive-shell/varload.md)
 * [Shell cmd ”motion”](shell-cmd-motion.md)
 * [API-Native functions](api-native-functions.md)
-  * [ClearCanvas](api-native-functions/clearcanvas.md)
-  * [PrintCanvas](api-native-functions/printcanvas.md)
-  * [SetIntensity](api-native-functions/setintensity.md)
-  * [SetColor](api-native-functions/setcolor.md)
-  * [Preset color definition](api-native-functions/preset-color-definition.md)
-  * [Basic color definition](api-native-functions/basic-color-definition.md)
-  * [SetRgbColor\(r,g,b\)](api-native-functions/setrgbcolorrgb.md)
-  * [DrawPoint](api-native-functions/drawpoint.md)
-  * [DrawPC](api-native-functions/drawpc.md)
-  * [DrawSide](api-native-functions/drawside.md)
-  * [DrawSquare](api-native-functions/drawsquare.md)
-  * [DrawCube](api-native-functions/drawcube.md)
-  * [DrawCross](api-native-functions/drawcross.md)
-  * [PushCanvas](api-native-functions/pushcanvas.md)
-  * [PopCanvas](api-native-functions/popcanvas.md)
-  * [CanvasToArray](api-native-functions/canvastoarray.md)
-  * [ArrayToCanvas](api-native-functions/arraytocanvas.md)
-  * [DrawArray](api-native-functions/drawarray.md)
-  * [PrintCnv](api-native-functions/printcnv.md)
-  * [SetDrawDefaults](api-native-functions/setdrawdefaults.md)
-  * [Drawing style definition](api-native-functions/drawing-style-definition.md)
-  * [SetDrawStyle](api-native-functions/setdrawstyle.md)
-  * [SetPalette](api-native-functions/setpalette.md)
-  * [PaletteFromArray](api-native-functions/palettefromarray.md)
-  * [FlashCanvas](api-native-functions/flashcanvas.md)
-  * [Flicker type definition](api-native-functions/flicker-type-definition.md)
-  * [DrawFlicker](api-native-functions/drawflicker.md)
-  * [AdjCanvasPoint](api-native-functions/adjcanvaspoint.md)
-  * [AdjCanvas](api-native-functions/adjcanvas.md)
-  * [AdjArray](api-native-functions/adjarray.md)
-  * [ReadCanvas](api-native-functions/readcanvas.md)
-  * [ReadRGBLed](api-native-functions/readrgbled.md)
-  * [ClearCube](api-native-functions/clearcube.md)
-  * [DrawTail](api-native-functions/drawtail.md)
-  * [Motion pattern type list definition](api-native-functions/motion-pattern-type-list-definition.md)
-  * [RegMotion](api-native-functions/regmotion.md)
-  * [SetDoubleTapLength](api-native-functions/setdoubletaplength.md)
-  * [Motion](api-native-functions/motion.md)
-  * [AckMotion](api-native-functions/ackmotion.md)
-  * [RegAllSideTaps](api-native-functions/regallsidetaps.md)
-  * [UnregMotion](api-native-functions/unregmotion.md)
-  * [UnregAllMotion](api-native-functions/unregallmotion.md)
-  * [GetTapSide](api-native-functions/gettapside.md)
-  * [RegAllTaps](api-native-functions/regalltaps.md)
-  * [GetTapType](api-native-functions/gettaptype.md)
-  * [Easy Tap Type Detection](api-native-functions/easy-tap-type-detection.md)
-  * [IsStill](api-native-functions/isstill.md)
-  * [GetShake](api-native-functions/getshake.md)
-  * [Sleep](api-native-functions/sleep.md)
-  * [Delay](api-native-functions/delay.md)
-  * [SetTimer](api-native-functions/settimer.md)
-  * [GetTimer](api-native-functions/gettimer.md)
-  * [PauseTimer](api-native-functions/pausetimer.md)
-  * [ResumeTimer](api-native-functions/resumetimer.md)
-  * [printf](api-native-functions/printf.md)
-  * [snprintf](api-native-functions/snprintf.md)
-  * [cellset](api-native-functions/cellset.md)
-  * [cellcopy](api-native-functions/cellcopy.md)
-  * [PushPopInit](api-native-functions/pushpopinit.md)
-  * [Push](api-native-functions/push.md)
-  * [Pop](api-native-functions/pop.md)
-  * [PPReady](api-native-functions/ppready.md)
-  * [PPFree](api-native-functions/ppfree.md)
-  * [STEP definition](api-native-functions/step-definition.md)
-  * [TURNS definition](api-native-functions/turns-definition.md)
-  * [\_w](api-native-functions/w.md)
-  * [WalkerMove](api-native-functions/walkermove.md)
-  * [WalkerTurn](api-native-functions/walkerturn.md)
-  * [WalkerDiff](api-native-functions/walkerdiff.md)
-  * [WalkerStepTo](api-native-functions/walkerstepto.md)
-  * [OppositeStep](api-native-functions/oppositestep.md)
-  * [GetSymmetrySquare](api-native-functions/getsymmetrysquare.md)
-  * [WalkerTap](api-native-functions/walkertap.md)
-  * [WalkerGetDir](api-native-functions/walkergetdir.md)
-  * [WalkerSetDir](api-native-functions/walkersetdir.md)
-  * [WalkerGetNorm](api-native-functions/walkergetnorm.md)
-  * [WalkerDirUp](api-native-functions/walkerdirup.md)
-  * [WalkerCompareDir](api-native-functions/walkercomparedir.md)
-  * [WalkerBuddy](api-native-functions/walkerbuddy.md)
-  * [Play](api-native-functions/play.md)
-  * [SetAudioForce](api-native-functions/setaudioforce.md)
-  * [SetVolume](api-native-functions/setvolume.md)
-  * [Melody](api-native-functions/melody.md)
-  * [WaitPlayOver](api-native-functions/waitplayover.md)
-  * [WaitMelodyOver](api-native-functions/waitmelodyover.md)
-  * [IsPlayOver](api-native-functions/isplayover.md)
-  * [IsMelodyOver](api-native-functions/ismelodyover.md)
-  * [Quiet](api-native-functions/quiet.md)
-  * [ReadAcc](api-native-functions/readacc.md)
-  * [GetCursor](api-native-functions/getcursor.md)
-  * [GetMsecs](api-native-functions/getmsecs.md)
-  * [GetAppMsecs](api-native-functions/getappmsecs.md)
-  * [StartGameMenu](api-native-functions/startgamemenu.md)
-  * [SetRndSeed](api-native-functions/setrndseed.md)
-  * [GetRnd](api-native-functions/getrnd.md)
-  * [SetStillClick](api-native-functions/setstillclick.md)
-  * [SetRandomizeFlag](api-native-functions/setrandomizeflag.md)
-  * [Score Definition](api-native-functions/score-definition.md)
-  * [Score](api-native-functions/score.md)
-  * [DrawScore](api-native-functions/drawscore.md)
-  * [DrawDigit](api-native-functions/drawdigit.md)
-  * [IsGameResetRequest](api-native-functions/isgameresetrequest.md)
-  * [Vibrate](api-native-functions/vibrate.md)
-  * [Icon](api-native-functions/icon.md)
-  * [PrintArray](api-native-functions/printarray.md)
-  * [VariableMagics](api-native-functions/variablemagics.md)
-  * [RegisterVariable](api-native-functions/registervariable.md)
-  * [StoreVariable](api-native-functions/storevariable.md)
-  * [LoadVariable](api-native-functions/loadvariable.md)
-  * [Restart](api-native-functions/restart.md)
-  * [CollisionTest](api-native-functions/collisiontest.md)
-  * [ApiVer](api-native-functions/apiver.md)
-  * [Useful Macros](api-native-functions/usefulmacros.md)
-  * [Macros Examples](api-native-functions/macro-examples.md)
+  * Graphics {api-graphics}
+    * ClearVirtualDisplay
+    * PrintVirtualDisplay
+    * SetPointShine
+    * SetPointColor
+    * [DrawPoint](api-native-functions/drawpoint.md)
+    * [DrawSide](api-native-functions/drawside.md)
+    * [SetRgbColor(r,g,b)](api-native-functions/setrgbcolorrgb.md)
+    * [DrawSquare](api-native-functions/drawsquare.md)
+    * [DrawCross](api-native-functions/drawcross.md)
+    * [PushCanvas](api-native-functions/pushcanvas.md)
+    * [PopCanvas](api-native-functions/popcanvas.md)
+    * StoreCanvas
+    * LoadCanvas
+    * DrawCanvas
+    * [PrintCnv](api-native-functions/printcnv.md)
+    * [SetDrawDefaults](api-native-functions/setdrawdefaults.md)
+    * [SetDrawStyle](api-native-functions/setdrawstyle.md)
+    * SetPColor
+    * [FlashCanvas](api-native-functions/flashcanvas.md)
+    * [DrawFlicker](api-native-functions/drawflicker.md)
+    * [DrawCube](api-native-functions/drawcube.md)
+    * [AdjCanvasPoint](api-native-functions/adjcanvaspoint.md)
+    * [AdjCanvas](api-native-functions/adjcanvas.md)
+    * [AdjArray](api-native-functions/adjarray.md)
+    * [ReadCanvas](api-native-functions/readcanvas.md)
+    * [ReadRGBLed](api-native-functions/readrgbled.md)
+    * [ClearCube](api-native-functions/clearcube.md)
+    * [DrawPC](api-native-functions/drawpc.md)
+    * [PaletteFromArray](api-native-functions/palettefromarray.md)
+    * [DrawTail](api-native-functions/drawtail.md)
+    * RotateCanvasRGB
+  * [Motion](api-native-functions/motion.md) {api-motion}
+    * [Motion pattern type list definition](api-native-functions/motion-pattern-type-list-definition.md)
+    * [RegMotion](api-native-functions/regmotion.md)
+    * ReadMotion
+    * [AckMotion](api-native-functions/ackmotion.md)
+    * [RegAllSideTaps](api-native-functions/regallsidetaps.md)
+    * [UnregMotion](api-native-functions/unregmotion.md)
+    * [UnregAllMotion](api-native-functions/unregallmotion.md)
+    * GetKickSide
+    * KickToWhere
+    * [IsStill](api-native-functions/isstill.md)
+    * [GetShake](api-native-functions/getshake.md)
+    * [RegAllTaps](api-native-functions/regalltaps.md)
+    * TapToSide
+    * TapToTop
+    * TapToBot
+    * TapSide
+    * TapSideOK
+    * [SetDoubleTapLength](api-native-functions/setdoubletaplength.md)
+    * Sqrt
+    * Get2DPointsDistance
+    * Get3DPointsDistance
+    * ProjectAccToCube
+    * Map3DPointToCube2D
+    * Map3DLineToCube2D
+    * CalcDistance2DPointTo2DLine
+    * CalcSurfaceDistance3DPointTo3DLine
+    * CalcSurfaceDistanceAccTo3DLine
+    * MapSideSquareTo3DPoint
+  * Walkers {api-walkers}
+    * [WalkerMove](api-native-functions/walkermove.md)
+    * [WalkerTurn](api-native-functions/walkerturn.md)
+    * [WalkerDiff](api-native-functions/walkerdiff.md)
+    * Resolve_Buddies
+    * Opposite_Step
+    * GetCsPoint
+    * Kick_Walker
+    * Diff_To_Spot_Step
+    * [WalkerGetDir](api-native-functions/walkergetdir.md)
+    * [WalkerSetDir](api-native-functions/walkersetdir.md)
+    * [WalkerGetNorm](api-native-functions/walkergetnorm.md)
+    * [WalkerBuddy](api-native-functions/walkerbuddy.md)
+    * [WalkerDirUp](api-native-functions/walkerdirup.md)
+    * [WalkerCompareDir](api-native-functions/walkercomparedir.md)
+    * [Walker Init / _w](api-native-functions/w.md)
+  * Scores {api-scores}
+    * [Score Definition](api-native-functions/score-definition.md)
+    * SetScore
+    * SetAP
+    * GetAP
+    * GetPS
+    * AnnounceBestScore
+  * Precise Timing {api-timing}
+    * EnablePreciseTiming
+    * TimerIncSet
+    * TimerIncGet
+    * SetAppMsec
+  * Sound {api-sound}
+    * [Play](api-native-functions/play.md)
+    * [SetAudioForce](api-native-functions/setaudioforce.md)
+    * [SetVolume](api-native-functions/setvolume.md)
+    * [Melody](api-native-functions/melody.md)
+    * [WaitPlayOver](api-native-functions/waitplayover.md)
+    * [WaitMelodyOver](api-native-functions/waitmelodyover.md)
+    * [Quiet](api-native-functions/quiet.md)
+    * [IsPlayOver](api-native-functions/isplayover.md)
+    * [IsMelodyOver](api-native-functions/ismelodyover.md)
+    * PlayAtCh
+    * SetChVolume
+    * IsPlayAtChOver
+    * StopPlayAtCh
+    * MountFolder
+    * GetNumberOfFiles
+    * PlayNthFileAtCh
+    * FFTOn
+    * FFTOff
+    * GetFFTCoeff
+  * Radio {api-radio}
+    * RadioInit
+    * RadioMessage
+    * RadioMsgWritable
+    * RadioMsgReadable
+    * RadioMsgWrite
+    * RadioMsgRead
+    * RadioGetOrder
+    * RadioGetSessionID
+    * RadioIsLost
+    * RadioSetDelays
+    * RadioSetBinary
+    * BleConnected
+    * BleSmartTx
+    * BleDataTx
+    * BleDataAvailable
+    * BleDataRx
+    * GetPreciseUsTimer
+    * ClearPreciseUsTimer
+    * BleFlush
+    * BleTextTx
+  * Misc {api-misc}
+    * [Sleep](api-native-functions/sleep.md)
+    * [Delay](api-native-functions/delay.md)
+    * [SetTimer](api-native-functions/settimer.md)
+    * [GetTimer](api-native-functions/gettimer.md)
+    * [PauseTimer](api-native-functions/pausetimer.md)
+    * [ResumeTimer](api-native-functions/resumetimer.md)
+    * [printf](api-native-functions/printf.md)
+    * [snprintf](api-native-functions/snprintf.md)
+    * [cellset](api-native-functions/cellset.md)
+    * [cellcopy](api-native-functions/cellcopy.md)
+    * [PushPopInit](api-native-functions/pushpopinit.md)
+    * [Push](api-native-functions/push.md)
+    * [Pop](api-native-functions/pop.md)
+    * [PPReady](api-native-functions/ppready.md)
+    * [PPFree](api-native-functions/ppfree.md)
+    * [ReadAcc](api-native-functions/readacc.md)
+    * [GetCursor](api-native-functions/getcursor.md)
+    * [IsGameResetRequest](api-native-functions/isgameresetrequest.md)
+    * [Vibrate](api-native-functions/vibrate.md)
+    * [CollisionTest](api-native-functions/collisiontest.md)
+    * ScanF
+    * GetShellMessage
+    * GetSystemVoltage
+    * IsUsbConnected
+    * ReadImu // new API4 IMU
+    * [Restart](api-native-functions/restart.md)
+    * [GetMsecs](api-native-functions/getmsecs.md)
+    * [GetAppMsecs](api-native-functions/getappmsecs.md)
+    * [StartGameMenu](api-native-functions/startgamemenu.md)
+    * [SetRndSeed](api-native-functions/setrndseed.md)
+    * [GetRnd](api-native-functions/getrnd.md)
+    * [SetRandomizeFlag](api-native-functions/setrandomizeflag.md)
+    * [SetStillClick](api-native-functions/setstillclick.md)
+    * AddActiveTime
+    * ModsSelect
+    * Pawn_Score
+    * Announce_Score
+    * [DrawDigit](api-native-functions/drawdigit.md)
+    * [Icon](api-native-functions/icon.md)
+    * [PrintArray](api-native-functions/printarray.md)
+    * [VariableMagics](api-native-functions/variablemagics.md)
+    * [RegisterVariable](api-native-functions/registervariable.md)
+    * [StoreVariable](api-native-functions/storevariable.md)
+    * [LoadVariable](api-native-functions/loadvariable.md)
+    * [ApiVer](api-native-functions/apiver.md)
+    * Shell
+    * [Useful Macros](api-native-functions/usefulmacros.md)
+    * [Macros Examples](api-native-functions/macro-examples.md)
+  * Uncategorized {api-no-cat}
+    * [ClearCanvas](api-native-functions/clearcanvas.md)
+    * [PrintCanvas](api-native-functions/printcanvas.md)
+    * [SetIntensity](api-native-functions/setintensity.md)
+    * [SetColor](api-native-functions/setcolor.md)
+    * [Preset color definition](api-native-functions/preset-color-definition.md)
+    * [Basic color definition](api-native-functions/basic-color-definition.md)
+    * [CanvasToArray](api-native-functions/canvastoarray.md)
+    * [ArrayToCanvas](api-native-functions/arraytocanvas.md)
+    * [DrawArray](api-native-functions/drawarray.md)
+    * [Drawing style definition](api-native-functions/drawing-style-definition.md)
+    * [SetPalette](api-native-functions/setpalette.md)
+    * [Flicker type definition](api-native-functions/flicker-type-definition.md)
+    * [GetTapSide](api-native-functions/gettapside.md)
+    * [GetTapType](api-native-functions/gettaptype.md)
+    * [Easy Tap Type Detection](api-native-functions/easy-tap-type-detection.md)
+    * [STEP definition](api-native-functions/step-definition.md)
+    * [TURNS definition](api-native-functions/turns-definition.md)
+    * [WalkerStepTo](api-native-functions/walkerstepto.md)
+    * [OppositeStep](api-native-functions/oppositestep.md)
+    * [GetSymmetrySquare](api-native-functions/getsymmetrysquare.md)
+    * [WalkerTap](api-native-functions/walkertap.md)
+    * [Score](api-native-functions/score.md)
+    * [DrawScore](api-native-functions/drawscore.md)
 * [Release notes](release-notes.md)
   * [SDK manual](release-notes/sdk-manual.md)
   * [futurocube.inc](release-notes/futurocubeinc.md)

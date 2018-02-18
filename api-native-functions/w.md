@@ -1,11 +1,11 @@
-# \_w
+# _w
 
 Creates initialized walker with it's default direction
 
-Syntax: `_w(side,square=-1)`
+Syntax: `_w(side, square = -1)`
 
-* `side` side number or index number of square 
-* `square` square number 
+* `side` side number or index number of square
+* `square` square number
 
 Returns: Returns initialized walker with it's default direction.
 
@@ -13,8 +13,8 @@ Notes: Input to this function can be either side and square number, or just squa
 
 Example:
 
-* `walk= w(4)`, initialized walk to square index number 4 
-* `walk= w(4,3)`, initialized walk to side 4, square 3 
+* `walk = w(4)`, initialized walk to square index number 4
+* `walk = w(4, 3)`, initialized walk to side 4, square 3
 
 See also: [WalkerMove](/api-native-functions/walkermove.md), [WalkerTurn](/api-native-functions/walkerturn.md)
 

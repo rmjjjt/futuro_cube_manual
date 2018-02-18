@@ -2,10 +2,10 @@
 
 Draw array to virtual canvas
 
-Syntax: DrawArray\(arr\[\],size=sizeof arr\)
+Syntax: DrawArray(arr\[\],size=sizeof arr)
 
-* `arr[]` source array 
-* `size` size of the array. Must be 54, otherwise exception is raised 
+* `arr[]` source array
+* `size` size of the array. Must be 54, otherwise exception is raised
 
 Returns: Function always returns 0
 

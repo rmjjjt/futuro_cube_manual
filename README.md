@@ -14,7 +14,7 @@ For a language syntax guide, look at:
 
 [http://www.compuphase.com/pawn/Pawn\_Language\_Guide.pdf](http://www.compuphase.com/pawn/Pawn_Language_Guide.pdf)
 
-You will also need to download Rubik’s Futuro Cube Suite \(RFC Suite\), available for Windows and Mac OS.
+You will also need to download Rubik’s Futuro Cube Suite (RFC Suite), available for Windows and Mac OS.
 
 Windows users additionally have to correctly install the USB driver.
 

@@ -2,9 +2,9 @@
 
 Scripts can be uploaded into three destinations:
 
-* Ram
-* Flash
-* MyCube Flash
+* [Ram](compiling-uploading-scripts/ram.md)
+* [Flash](compiling-uploading-scripts/flash.md)
+* [MYCube Flash](compiling-uploading-scripts/mycube.md)
 
 
 

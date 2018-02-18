@@ -1,2 +1,2 @@
-![](/assets/indices.png) Square identifying indices \(index\) used in PAWN
+![](/assets/indices.png) Square identifying indices (index) used in PAWN
 
