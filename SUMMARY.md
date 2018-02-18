@@ -202,7 +202,7 @@
 * [Release notes](release-notes.md)
   * [SDK manual](release-notes/sdk-manual.md)
   * [futurocube.inc](release-notes/futurocubeinc.md)
-* Examples
+* [Examples](examples.md)
   * [Cursor](examples/cursor.md)
   * [Tapping](examples/tapping.md)
   * [Walker](examples/walker.md)
