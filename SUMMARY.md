@@ -212,4 +212,5 @@
   * [Motion](examples/motion.md)
   * [Defuser](examples/defuser.md)
   * [SScanf](examples/sscanf.md)
+  * [Music Player](examples/music-player.md)
 
