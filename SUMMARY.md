@@ -302,5 +302,5 @@
   * [Defuser](examples/defuser.md)
   * [SScanf](examples/sscanf.md)
   * [Music Player](examples/music-player.md)
-* [Sound resources](sound-resources.md)
+* [Sound resources](sound-resources/sound-resources.md)
 
