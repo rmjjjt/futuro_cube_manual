@@ -303,4 +303,5 @@
   * [SScanf](examples/sscanf.md)
   * [Music Player](examples/music-player.md)
 * [Sound resources](sound-resources.md)
+  * [Sample rate compensation](sound-resources/sample-rate-compensation.md)
 
