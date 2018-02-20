@@ -1,6 +1,6 @@
 # sn
 
-Gives serial number of the cube.
+Gives the serial number of the cube.
 
 Syntax: `sn`
 
@@ -10,6 +10,3 @@ PSC01DC09249
 __OK__
 $>
 ```
-
-
-

@@ -1,6 +1,6 @@
-# 15.24 pawnerasemycube 
+# pawnerasemycube
 
-Erases scripts in MYCUBE - from FW 4.5 
+Erases scripts in MYCUBE - from FW 4.5
 
 Syntax: `pawnerasemycube`
 

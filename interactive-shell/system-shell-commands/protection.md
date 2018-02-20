@@ -13,6 +13,3 @@ ReadOutProtection: SET
 __OK__
 $>
 ```
-
-
-

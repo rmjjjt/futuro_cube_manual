@@ -1,6 +1,6 @@
-# 15.22 pawnerase 
+# pawnerase
 
-Erases scripts in RAM, FLASH and MYCUBE FLASH 
+Erases scripts in RAM, FLASH and MYCUBE FLASH
 
 Syntax: `pawnerase`
 

@@ -1,45 +1,41 @@
 # Summary
 
-* [Cover](README.md)
-* [1. Licenses](/1-licenses.md)
-  * [1.1 Seven Towns Ltd. ](/1-licenses.md#11-seven-towns-ltd-)
-  * [1.2 Pawn](/1-licenses.md#12-pawn-)
-  * [1.3 Exception clause to the Apache License version 2.0](/1-licenses.md#13-exception-clause-to-the-apache-license-version-20-)
-* [2. Introduction](/2-introduction.md#2-introduction)
-* [3. Hello World](/3-hello-world.md#3-hello-world)
-* [4. Walkers, Squares, Indexes](/4-walkers-squares-indexes.md#4-walkers-squares-indexes)
-  * [4.1 Sides and Squares](4-walkers-squares-indexes/41-sides-and-squares.md)
-  * [4.2 Indices](4-walkers-squares-indexes/42-indices.md)
-* [5. Programming](5-programming.md)
-  * [5.1 Simplified scheduling](assets/51-simplified-scheduling.md)
-  * [5.2 Recommended basic programming workflow](assets/52-recommended-basic-programming-workflow.md)
-* [6. Compiling, uploading and erasing scripts](6-compiling-uploading-scripts.md)
-  * [6.1 RAM](6-compiling-uploading-scripts/61-stuff.md)
-  * [6.2 Flash](6-compiling-uploading-scripts/62-flash.md)
-  * [6.3 MyCube](6-compiling-uploading-scripts/63-mycube.md)
-  * [6.4 Starting scripts in the standard way](6-compiling-uploading-scripts/64-starting-scripts-in-the-standard-way.md)
-  * [6.5 Multiple script support - from FW 4.5 and RFC 0.8](6-compiling-uploading-scripts/65-multiple-script-support-from-fw-45-and-rfc-08.md)
-  * [6.6 Starting scripts automatically](6-compiling-uploading-scripts/66-starting-scripts-automatically.md)
-  * [6.7 Erasing scripts](6-compiling-uploading-scripts/67-erasing-scripts.md)
-* [7. Pawn specialities](7-pawn-specialties.md)
-  * [7.1 Default parameters](7-pawn-specialties/71-default-parameters.md)
-  * [7.2 Operator sizeof](7-pawn-specialties/72-operator-sizeof.md)
-  * [7.3 Sizeof from multi-dimension arrays](7-pawn-specialties/73-sizeof-from-multi-dimension-arrays.md)
-  * [7.4 Packed and unpacked strings](7-pawn-specialties/74-packed-and-unpacked-strings.md)
-* [8. Colors, palettes and drawing](8-colors-palettes-and-drawing.md)
-* [9. PWM steps - 64 versus 256](9-pwm-steps-64-versus-256.md)
-* [10. Push Pop Arrays](10-push-pop-arrays.md)
-* [11. Default settings for scripts](11-default-settings-for-scripts.md)
-* [12. Variables](12-variables.md)
-* [13. Timers](13-timers.md)
-* [14. Basic commands](14-basic-commands-to-start-with.md)
+* [Introduction](README.md)
+* [Licenses](/licenses.md#licenses)
+* [Hello World](/hello-world.md)
+* [Walkers, Squares, Indexes](/walkers-squares-indexes.md)
+  * [Sides and Squares](walkers-squares-indexes/sides-and-squares.md)
+  * [Indices](walkers-squares-indexes/indices.md)
+* [Programming](programming.md)
+  * [Simplified scheduling](assets/51-simplified-scheduling.md)
+  * [Recommended basic programming workflow](assets/52-recommended-basic-programming-workflow.md)
+* [Compiling, uploading and erasing scripts](compiling-uploading-scripts.md)
+  * [RAM](compiling-uploading-scripts/stuff.md)
+  * [Flash](compiling-uploading-scripts/flash.md)
+  * [MyCube](compiling-uploading-scripts/mycube.md)
+  * [Starting scripts in the standard way](compiling-uploading-scripts/starting-scripts-in-the-standard-way.md)
+  * [Multiple script support - from FW 4.5 and RFC 0.8](compiling-uploading-scripts/multiple-script-support-from-fw-45-and-rfc-08.md)
+  * [Starting scripts automatically](compiling-uploading-scripts/starting-scripts-automatically.md)
+  * [Erasing scripts](compiling-uploading-scripts/erasing-scripts.md)
+* [Pawn specialities](pawn-specialties.md)
+  * [Default parameters](pawn-specialties/default-parameters.md)
+  * [Operator sizeof](pawn-specialties/operator-sizeof.md)
+  * [Sizeof from multi-dimension arrays](pawn-specialties/sizeof-from-multi-dimension-arrays.md)
+  * [Packed and unpacked strings](pawn-specialties/packed-and-unpacked-strings.md)
+* [Colors, palettes and drawing](colors-palettes-and-drawing.md)
+* [PWM steps - 64 versus 256](pwm-steps-64-versus-256.md)
+* [Push Pop Arrays](push-pop-arrays.md)
+* [Default settings for scripts](default-settings-for-scripts.md)
+* [Variables](variables.md)
+* [Timers](timers.md)
+* [Basic commands](basic-commands-to-start-with.md)
 * [Interactive shell](interactive-shell.md)
   * [Default shell settings](interactive-shell/default-shell-settings.md)
   * [Shell in RFC Suite](interactive-shell/shell-in-rfc-suite.md)
   * [Accessing shell any time](interactive-shell/configuring-shell.md)
   * [System shell commands](interactive-shell/system-shell-commands.md)
     * [sn](interactive-shell/system-shell-commands/sn.md)
-    * [ver](interactive-shell/ver.md)
+    * [ver](interactive-shell/system-shell-commands/ver.md)
     * [stdshell](interactive-shell/system-shell-commands/stdshell.md)
     * [stdshellnk](interactive-shell/system-shell-commands/stdshellnk.md)
     * [echoon](interactive-shell/system-shell-commands/echoon.md)
@@ -57,7 +53,7 @@
     * [stackinfo](interactive-shell/system-shell-commands/stackinfo.md)
     * [getms](interactive-shell/system-shell-commands/getms.md)
     * [setms](interactive-shell/system-shell-commands/setms.md)
-  * Video shell commands
+  * [Video shell commands](interactive-shell/video-shell-commands.md)
     * [iic](interactive-shell/video-shell-commands/iic.md)
     * [clr](interactive-shell/video-shell-commands/clr.md)
     * [pled](interactive-shell/video-shell-commands/pled.md)
@@ -87,105 +83,230 @@
   * [var](interactive-shell/var.md)
   * [varpawn](interactive-shell/varpawn.md)
   * [varload](interactive-shell/varload.md)
-  * Video shell commands
-* [16. Shell cmd ”motion”](16-shell-cmd-motion.md)
-* [17. API-Native functions](17-api-native-functions.md)
-  * [17.1 ClearCanvas](17-api-native-functions/171-clearcanvas.md)
-  * [17.2 PrintCanvas](17-api-native-functions/172-printcanvas.md)
-  * [17.3 SetIntensity](17-api-native-functions/173-setintensity.md)
-  * [17.4 SetColor](17-api-native-functions/174-setcolor.md)
-  * [17.5 Preset color definition](17-api-native-functions/175-preset-color-definition.md)
-  * [17.6 Basic color definition](17-api-native-functions/176-basic-color-definition.md)
-  * [17.7 SetRgbColor\(r,g,b\)](17-api-native-functions/177-setrgbcolorrgb.md)
-  * [17.8 DrawPoint](17-api-native-functions/178-drawpoint.md)
-  * [17.9 DrawPC](17-api-native-functions/179-drawpc.md)
-  * [17.10 DrawSide](17-api-native-functions/1710-drawside.md)
-  * [17.11 DrawSquare](17-api-native-functions/1711-drawsquare.md)
-  * [17.12 DrawCube](17-api-native-functions/1712-drawcube.md)
-  * [17.13 DrawCross](17-api-native-functions/1713-drawcross.md)
-  * [17.14 PushCanvas](17-api-native-functions/1714-pushcanvas.md)
-  * [17.15 PopCanvas](17-api-native-functions/1715-popcanvas.md)
-  * [17.16 CanvasToArray](17-api-native-functions/1716-canvastoarray.md)
-  * [17.17 ArrayToCanvas](17-api-native-functions/1717-arraytocanvas.md)
-  * [17.18 DrawArray](17-api-native-functions/1718-drawarray.md)
-  * [17.19 PrintCnv](17-api-native-functions/1719-printcnv.md)
-  * [17.20 SetDrawDefaults](17-api-native-functions/1720-setdrawdefaults.md)
-  * [17.21 Drawing style definition](17-api-native-functions/1721-drawing-style-definition.md)
-  * [17.22 SetDrawStyle](17-api-native-functions/1722-setdrawstyle.md)
-  * [17.23 SetPalette](17-api-native-functions/1723-setpalette.md)
-  * [17.24 PaletteFromArray](17-api-native-functions/1724-palettefromarray.md)
-  * [17.25 FlashCanvas](17-api-native-functions/1725-flashcanvas.md)
-  * [17.26 Flicker type definition](17-api-native-functions/1726-flicker-type-definition.md)
-  * [17.27 DrawFlicker](17-api-native-functions/1727-drawflicker.md)
-  * [17.28 AdjCanvasPoint](17-api-native-functions/1728-adjcanvaspoint.md)
-  * [17.29 AdjCanvas](17-api-native-functions/1729-adjcanvas.md)
-  * [17.30 AdjArray](17-api-native-functions/1730-adjarray.md)
-  * [17.31 ReadCanvas](17-api-native-functions/1731-readcanvas.md)
-  * [17.32 ReadRGBLed](17-api-native-functions/1732-readrgbled.md)
-  * [17.33 ClearCube](17-api-native-functions/1733-clearcube.md)
-  * [17.34 DrawTail](17-api-native-functions/1734-drawtail.md)
-  * [17.35 Motion pattern type list definition](17-api-native-functions/1735-motion-pattern-type-list-definition.md)
-  * [17.36 RegMotion](17-api-native-functions/1736-regmotion.md)
-  * [17.37 SetDoubleTapLength](17-api-native-functions/1737-setdoubletaplength.md)
-  * [17.38 Motion](17-api-native-functions/1738-motion.md)
-  * [17.39 AckMotion](17-api-native-functions/1739-ackmotion.md)
-  * [17.40 RegAllSideTaps](17-api-native-functions/1740-regallsidetaps.md)
-  * [17.41 UnregMotion](17-api-native-functions/1741-unregmotion.md)
-  * [17.42 UnregAllMotion](17-api-native-functions/1742-unregallmotion.md)
-  * [17.43 GetTapSide](17-api-native-functions/1743-gettapside.md)
-  * [17.44 RegAllTaps](17-api-native-functions/1744-regalltaps.md)
-  * [17.45 GetTapType](17-api-native-functions/1745-gettaptype.md)
-  * [17.46 Easy Tap Type Detection](17-api-native-functions/1746-easy-tap-type-detection.md)
-  * [17.47 IsStill](17-api-native-functions/1747-isstill.md)
-  * [17.48 GetShake](17-api-native-functions/1748-getshake.md)
-  * [17.49 Sleep](17-api-native-functions/1749-sleep.md)
-  * [17.50 Delay](17-api-native-functions/1750-delay.md)
-  * [17.51 SetTimer](17-api-native-functions/1751-settimer.md)
-  * [17.52 GetTimer](17-api-native-functions/1752-gettimer.md)
-  * [17.53 PauseTimer](17-api-native-functions/1753-pausetimer.md)
-  * [17.54 ResumeTimer](17-api-native-functions/1754-resumetimer.md)
-  * [17.55 printf](17-api-native-functions/1755-printf.md)
-  * [17.56 snprintf](17-api-native-functions/1756-snprintf.md)
-  * [17.57 cellset](17-api-native-functions/1757-cellset.md)
-  * [17.58 cellcopy](17-api-native-functions/1758-cellcopy.md)
-  * [17.59 PushPopInit](17-api-native-functions/1759-pushpopinit.md)
-  * [17.60 Push](17-api-native-functions/1760-push.md)
-  * [17.61 Pop](17-api-native-functions/1761-pop.md)
-  * [17.62 PPReady](17-api-native-functions/1762-ppready.md)
-  * [17.63 PPFree](17-api-native-functions/1763-ppfree.md)
-  * [17.64 STEP definition](17-api-native-functions/1764-step-definition.md)
-  * [17.65 TURNS definition](17-api-native-functions/1765-turns-definition.md)
-  * [17.66 \_w](17-api-native-functions/1766-w.md)
-  * [17.67 WalkerMove](17-api-native-functions/1767-walkermove.md)
-  * [17.68 WalkerTurn](17-api-native-functions/1768-walkerturn.md)
-  * [17.69 WalkerDiff](17-api-native-functions/1769-walkerdiff.md)
-  * [17.70 WalkerStepTo](17-api-native-functions/1770-walkerstepto.md)
-  * [17.71 OppositeStep](17-api-native-functions/1771-oppositestep.md)
-  * [17.72 GetSymmetrySquare](17-api-native-functions/1772-getsymmetrysquare.md)
-  * [17.73 WalkerTap](17-api-native-functions/1773-walkertap.md)
-  * [17.74 WalkerGetDir](17-api-native-functions/1774-walkergetdir.md)
-  * [17.75 WalkerSetDir](17-api-native-functions/1775-walkersetdir.md)
-  * [17.76 WalkerGetNorm](17-api-native-functions/1776-walkergetnorm.md)
-  * [17.77 WalkerDirUp](17-api-native-functions/1777-walkerdirup.md)
-  * [17.78 WalkerCompareDir](17-api-native-functions/1778-walkercomparedir.md)
-  * [17.79 WalkerBuddy](17-api-native-functions/1779-walkerbuddy.md)
-  * [17.80 Play](17-api-native-functions/1780-play.md)
-  * [17.81 SetAudioForce](17-api-native-functions/1781-setaudioforce.md)
-  * [17.82 SetVolume](17-api-native-functions/1782-setvolume.md)
-  * [17.83 Melody](17-api-native-functions/1783-melody.md)
-  * [17.84 WaitPlayOver](17-api-native-functions/1784-waitplayover.md)
-  * [17.85 WaitMelodyOver](17-api-native-functions/1785-waitmelodyover.md)
-  * [17.86 IsPlayOver](17-api-native-functions/1786-isplayover.md)
-  * [17.87 IsMelodyOver](17-api-native-functions/1787-ismelodyover.md)
-  * [17.88 Quiet](17-api-native-functions/1788-quiet.md)
-  * [17.89 ReadAcc](17-api-native-functions/1789-readacc.md)
-  * [17.90 GetCursor](17-api-native-functions/1790-getcursor.md)
-  * [17.91 GetMsecs](17-api-native-functions/1791-getmsecs.md)
-  * [17.92 GetAppMsecs](17-api-native-functions/1792-getappmsecs.md)
-  * [17.93 StartGameMenu](17-api-native-functions/1793-startgamemenu.md)
-  * [17.94 SetRndSeed](17-api-native-functions/1794-setrndseed.md)
-  * [17.95 GetRnd](17-api-native-functions/1795-getrnd.md)
-* [18. Release notes](18-release-notes.md)
-  * [18.1 SDK manual](18-release-notes/181-sdk-manual.md)
-  * [18.2 futurocube.inc](18-release-notes/182-futurocubeinc.md)
+* [Shell cmd ”motion”](shell-cmd-motion.md)
+* [API-Native functions](api-native-functions.md)
+  * Graphics
+    * ClearVirtualDisplay
+    * PrintVirtualDisplay
+    * SetPointShine
+    * SetPointColor
+    * [DrawPoint](api-native-functions/drawpoint.md)
+    * [DrawSide](api-native-functions/drawside.md)
+    * [SetRgbColor\(r,g,b\)](api-native-functions/setrgbcolorrgb.md)
+    * [DrawSquare](api-native-functions/drawsquare.md)
+    * [DrawCross](api-native-functions/drawcross.md)
+    * [PushCanvas](api-native-functions/pushcanvas.md)
+    * [PopCanvas](api-native-functions/popcanvas.md)
+    * StoreCanvas
+    * LoadCanvas
+    * DrawCanvas
+    * [PrintCnv](api-native-functions/printcnv.md)
+    * [SetDrawDefaults](api-native-functions/setdrawdefaults.md)
+    * [SetDrawStyle](api-native-functions/setdrawstyle.md)
+    * SetPColor
+    * [FlashCanvas](api-native-functions/flashcanvas.md)
+    * [DrawFlicker](api-native-functions/drawflicker.md)
+    * [DrawCube](api-native-functions/drawcube.md)
+    * [AdjCanvasPoint](api-native-functions/adjcanvaspoint.md)
+    * [AdjCanvas](api-native-functions/adjcanvas.md)
+    * [AdjArray](api-native-functions/adjarray.md)
+    * [ReadCanvas](api-native-functions/readcanvas.md)
+    * [ReadRGBLed](api-native-functions/readrgbled.md)
+    * [ClearCube](api-native-functions/clearcube.md)
+    * [DrawPC](api-native-functions/drawpc.md)
+    * [PaletteFromArray](api-native-functions/palettefromarray.md)
+    * [DrawTail](api-native-functions/drawtail.md)
+    * RotateCanvasRGB
+  * [Motion](api-native-functions/motion.md)
+    * [Motion pattern type list definition](api-native-functions/motion-pattern-type-list-definition.md)
+    * [RegMotion](api-native-functions/regmotion.md)
+    * ReadMotion
+    * [AckMotion](api-native-functions/ackmotion.md)
+    * [RegAllSideTaps](api-native-functions/regallsidetaps.md)
+    * [UnregMotion](api-native-functions/unregmotion.md)
+    * [UnregAllMotion](api-native-functions/unregallmotion.md)
+    * GetKickSide
+    * KickToWhere
+    * [IsStill](api-native-functions/isstill.md)
+    * [GetShake](api-native-functions/getshake.md)
+    * [RegAllTaps](api-native-functions/regalltaps.md)
+    * TapToSide
+    * TapToTop
+    * TapToBot
+    * TapSide
+    * TapSideOK
+    * [SetDoubleTapLength](api-native-functions/setdoubletaplength.md)
+    * Sqrt
+    * Get2DPointsDistance
+    * Get3DPointsDistance
+    * ProjectAccToCube
+    * Map3DPointToCube2D
+    * Map3DLineToCube2D
+    * CalcDistance2DPointTo2DLine
+    * CalcSurfaceDistance3DPointTo3DLine
+    * CalcSurfaceDistanceAccTo3DLine
+    * MapSideSquareTo3DPoint
+  * Walkers
+    * [WalkerMove](api-native-functions/walkermove.md)
+    * [WalkerTurn](api-native-functions/walkerturn.md)
+    * [WalkerDiff](api-native-functions/walkerdiff.md)
+    * Resolve\_Buddies
+    * Opposite\_Step
+    * GetCsPoint
+    * Kick\_Walker
+    * Diff\_To\_Spot\_Step
+    * [WalkerGetDir](api-native-functions/walkergetdir.md)
+    * [WalkerSetDir](api-native-functions/walkersetdir.md)
+    * [WalkerGetNorm](api-native-functions/walkergetnorm.md)
+    * [WalkerBuddy](api-native-functions/walkerbuddy.md)
+    * [WalkerDirUp](api-native-functions/walkerdirup.md)
+    * [WalkerCompareDir](api-native-functions/walkercomparedir.md)
+    * [Walker Init / \_w](api-native-functions/w.md)
+  * Scores
+    * [Score Definition](api-native-functions/score-definition.md)
+    * SetScore
+    * SetAP
+    * GetAP
+    * GetPS
+    * AnnounceBestScore
+  * Precise Timing
+    * EnablePreciseTiming
+    * TimerIncSet
+    * TimerIncGet
+    * SetAppMsec
+  * Sound
+    * [Play](api-native-functions/play.md)
+    * [SetAudioForce](api-native-functions/setaudioforce.md)
+    * [SetVolume](api-native-functions/setvolume.md)
+    * [Melody](api-native-functions/melody.md)
+    * [WaitPlayOver](api-native-functions/waitplayover.md)
+    * [WaitMelodyOver](api-native-functions/waitmelodyover.md)
+    * [Quiet](api-native-functions/quiet.md)
+    * [IsPlayOver](api-native-functions/isplayover.md)
+    * [IsMelodyOver](api-native-functions/ismelodyover.md)
+    * PlayAtCh
+    * SetChVolume
+    * IsPlayAtChOver
+    * StopPlayAtCh
+    * MountFolder
+    * GetNumberOfFiles
+    * PlayNthFileAtCh
+    * FFTOn
+    * FFTOff
+    * GetFFTCoeff
+  * Radio
+    * RadioInit
+    * RadioMessage
+    * RadioMsgWritable
+    * RadioMsgReadable
+    * RadioMsgWrite
+    * RadioMsgRead
+    * RadioGetOrder
+    * RadioGetSessionID
+    * RadioIsLost
+    * RadioSetDelays
+    * RadioSetBinary
+    * BleConnected
+    * BleSmartTx
+    * BleDataTx
+    * BleDataAvailable
+    * BleDataRx
+    * GetPreciseUsTimer
+    * ClearPreciseUsTimer
+    * BleFlush
+    * BleTextTx
+  * Misc
+    * [Sleep](api-native-functions/sleep.md)
+    * [Delay](api-native-functions/delay.md)
+    * [SetTimer](api-native-functions/settimer.md)
+    * [GetTimer](api-native-functions/gettimer.md)
+    * [PauseTimer](api-native-functions/pausetimer.md)
+    * [ResumeTimer](api-native-functions/resumetimer.md)
+    * [printf](api-native-functions/printf.md)
+    * [snprintf](api-native-functions/snprintf.md)
+    * [cellset](api-native-functions/cellset.md)
+    * [cellcopy](api-native-functions/cellcopy.md)
+    * [PushPopInit](api-native-functions/pushpopinit.md)
+    * [Push](api-native-functions/push.md)
+    * [Pop](api-native-functions/pop.md)
+    * [PPReady](api-native-functions/ppready.md)
+    * [PPFree](api-native-functions/ppfree.md)
+    * [ReadAcc](api-native-functions/readacc.md)
+    * [GetCursor](api-native-functions/getcursor.md)
+    * [IsGameResetRequest](api-native-functions/isgameresetrequest.md)
+    * [Vibrate](api-native-functions/vibrate.md)
+    * [CollisionTest](api-native-functions/collisiontest.md)
+    * ScanF
+    * GetShellMessage
+    * GetSystemVoltage
+    * IsUsbConnected
+    * ReadImu // new API4 IMU
+    * [Restart](api-native-functions/restart.md)
+    * [GetMsecs](api-native-functions/getmsecs.md)
+    * [GetAppMsecs](api-native-functions/getappmsecs.md)
+    * [StartGameMenu](api-native-functions/startgamemenu.md)
+    * [SetRndSeed](api-native-functions/setrndseed.md)
+    * [GetRnd](api-native-functions/getrnd.md)
+    * [SetRandomizeFlag](api-native-functions/setrandomizeflag.md)
+    * [SetStillClick](api-native-functions/setstillclick.md)
+    * AddActiveTime
+    * ModsSelect
+    * Pawn\_Score
+    * Announce\_Score
+    * [DrawDigit](api-native-functions/drawdigit.md)
+    * [Icon](api-native-functions/icon.md)
+    * [PrintArray](api-native-functions/printarray.md)
+    * [VariableMagics](api-native-functions/variablemagics.md)
+    * [RegisterVariable](api-native-functions/registervariable.md)
+    * [StoreVariable](api-native-functions/storevariable.md)
+    * [LoadVariable](api-native-functions/loadvariable.md)
+    * [ApiVer](api-native-functions/apiver.md)
+    * Shell
+    * [Useful Macros](api-native-functions/usefulmacros.md)
+    * [Macros Examples](api-native-functions/macro-examples.md)
+  * Uncategorized
+    * [ClearCanvas](api-native-functions/clearcanvas.md)
+    * [PrintCanvas](api-native-functions/printcanvas.md)
+    * [SetIntensity](api-native-functions/setintensity.md)
+    * [SetColor](api-native-functions/setcolor.md)
+    * [Preset color definition](api-native-functions/preset-color-definition.md)
+    * [Basic color definition](api-native-functions/basic-color-definition.md)
+    * [CanvasToArray](api-native-functions/canvastoarray.md)
+    * [ArrayToCanvas](api-native-functions/arraytocanvas.md)
+    * [DrawArray](api-native-functions/drawarray.md)
+    * [Drawing style definition](api-native-functions/drawing-style-definition.md)
+    * [SetPalette](api-native-functions/setpalette.md)
+    * [Flicker type definition](api-native-functions/flicker-type-definition.md)
+    * [GetTapSide](api-native-functions/gettapside.md)
+    * [GetTapType](api-native-functions/gettaptype.md)
+    * [Easy Tap Type Detection](api-native-functions/easy-tap-type-detection.md)
+    * [STEP definition](api-native-functions/step-definition.md)
+    * [TURNS definition](api-native-functions/turns-definition.md)
+    * [WalkerStepTo](api-native-functions/walkerstepto.md)
+    * [OppositeStep](api-native-functions/oppositestep.md)
+    * [GetSymmetrySquare](api-native-functions/getsymmetrysquare.md)
+    * [WalkerTap](api-native-functions/walkertap.md)
+    * [Score](api-native-functions/score.md)
+    * [DrawScore](api-native-functions/drawscore.md)
+* [Release notes](release-notes.md)
+  * [SDK manual](release-notes/sdk-manual.md)
+  * [futurocube.inc](release-notes/futurocubeinc.md)
+* [Examples](examples.md)
+  * [Cursor](examples/cursor.md)
+  * [Tapping](examples/tapping.md)
+  * [Walker](examples/walker.md)
+  * [Paint My Cube](examples/paint-my-cube.md)
+  * [Animated Rubiks Cube](examples/animated-rubiks.md)
+  * [Disco Cube](examples/disco-cube.md)
+  * [Motion](examples/motion.md)
+  * [Defuser](examples/defuser.md)
+  * [SScanf](examples/sscanf.md)
+  * [Music Player](examples/music-player.md)
+* [Sound resources](sound-resources.md)
+  * [Uploading resources](sound-resources/uploading-resources.md)
+  * [Erasing resources](sound-resources/erasing-resources.md)
+  * [Playback priorities](sound-resources/playback-priorities.md)
+  * [Naming conventions](sound-resources/naming-conventions.md)
+  * [Sample rate compensation](sound-resources/sample-rate-compensation.md)
+  * [Frequency response compensation](sound-resources/frequency-response-compensation.md)
 

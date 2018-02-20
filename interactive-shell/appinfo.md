@@ -1,6 +1,6 @@
-# 15.11 appinfo 
+# appinfo
 
-Gives back memory layout of FW. 
+Gives back memory layout of FW.
 
 Syntax: `appinfo`
 

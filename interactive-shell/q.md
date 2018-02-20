@@ -1,6 +1,6 @@
-# 15.14 q 
+# q
 
-Quiet all ongoing music 
+Quiet all ongoing music
 
 Syntax: `q`
 

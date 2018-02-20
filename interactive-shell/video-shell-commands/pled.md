@@ -1,6 +1,6 @@
 # pled
 
-Lights up leds according PAWN numbering.
+Lights up leds according to PAWN numbering.
 
 Syntax: `pled side square ledRGBselect intesity`
 

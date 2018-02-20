@@ -1,6 +1,6 @@
-# 15.32 var 
+# var
 
-Prints out all available variables with its storage information 
+Prints out all available variables with its storage information
 
 Syntax: `var`
 

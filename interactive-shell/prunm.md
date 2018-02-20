@@ -1,6 +1,6 @@
-# 15.21 prunm 
+# prunm
 
-Start script in FLASH - MYCUBE 
+Start script in FLASH - MYCUBE
 
 Syntax: `prunm`
 

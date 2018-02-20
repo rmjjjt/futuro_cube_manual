@@ -1,6 +1,6 @@
-# 15.29 pawnmem 
+# pawnmem
 
-Displays info about pawn memory layout 
+Displays info about pawn memory layout
 
 Syntax: `pawnmem`
 

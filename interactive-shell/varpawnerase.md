@@ -1,6 +1,6 @@
-# 15.35 varpawnerase 
+# varpawnerase
 
-Erases pawn variable for debugging purposes 
+Erases pawn variable for debugging purposes
 
 Syntax: `varpawnerase P xxxx`
 
