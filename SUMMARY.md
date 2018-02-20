@@ -303,5 +303,10 @@
   * [SScanf](examples/sscanf.md)
   * [Music Player](examples/music-player.md)
 * [Sound resources](sound-resources.md)
+  * [Uploading resources](sound-resources/uploading-resources.md)
+  * [Erasing resources](sound-resources/erasing-resources.md)
+  * [Playback priorities](sound-resources/playback-priorities.md)
+  * [Naming conventions](sound-resources/naming-conventions.md)
   * [Sample rate compensation](sound-resources/sample-rate-compensation.md)
+  * [Frequency response compensation](sound-resources/frequency-response-compensation.md)
 
