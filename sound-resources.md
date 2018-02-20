@@ -2,11 +2,11 @@
 
 There is an easy way to modify or upload your own resources into the Rubik's Futuro Cube and work with them. Standard available sound resources are available [here](http://www.futurocube.com/support/) under **Language packs EN+CZ+GE **section. If you look the offered zipped files, you will find out, that those are regular Microsoft WAV files in following supported formats:
 
-| Highest quality | mono PCM WAV 22.050 kHz 16bit |  |
+| Highest quality | mono PCM WAV 22.050 kHz 16bit | max playback time TBD |
 | :--- | :--- | :--- |
-| Middle quality | mono PCM WAV 22.050 kHz 8bit |  |
-| Middle quality | mono PCM WAV 11.025 kHz 16bit |  |
-| Lowest quality | mono PCM WAV 11.025 kHz 8bit |  |
+| Middle quality | mono PCM WAV 22.050 kHz 8bit | TBD |
+| Middle quality | mono PCM WAV 11.025 kHz 16bit | TBD |
+| Lowest quality | mono PCM WAV 11.025 kHz 8bit | TBD |
 
 If you want, you can for example alternate original resources files and make your own language/crazy distribution. Only try to follow next rules, that applies to all resources, especially for games and apps:
 
@@ -36,8 +36,6 @@ Next steps are not needed in 95 percent of cases. You don't need to pay attentio
 
 * [Sample rate compensation](/sound-resources/sample-rate-compensation.md)
 * [Frequency response compensation](/sound-resources/frequency-response-compensation.md)
-
-
 
 #### 
 
