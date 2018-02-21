@@ -309,4 +309,5 @@
   * [Naming conventions](sound-resources/naming-conventions.md)
   * [Sample rate compensation](sound-resources/sample-rate-compensation.md)
   * [Frequency response compensation](sound-resources/frequency-response-compensation.md)
+* [Installation packages](installation-package.md)
 
