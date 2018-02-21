@@ -63,9 +63,11 @@ main()
 
 #### Good rules to follow
 
-* Name of the package should contain the name and version, which is inside, in our case **Rubiks\_Cube\_1\_3.zip**
-* Inside compiled script \(amx extension\) shall be named similary, i.e. **Rubiks\_Cube\_1\_3.amx **and the ICON information inside shall match it. I.e. RUBIKS CUBE as script name, and same version 1.3
-* If possible create inside directory with same name as script name defined in ICON, in our case **RUBIKS CUBE**, this directory will be searched first. However the instalation package can have multiple diretcories. 
+* Name of the package should contain the name and the version, in our case **Rubiks\_Cube\_1\_3.zip**
+* Compiled script \(file with amx extension\) and source code \(file with p extension\) shall be named similary, i.e. **Rubiks\_Cube\_1\_3.amx** and **Rubiks\_Cube\_1\_3.amx.p**.** **
+* ICON array inside amx file should match completely file names, i.e. **RUBIKS CUBE** as script name, and same version **1.3**.** **
+* If you use your own created sound resources, create inside directory with same name as script name defined in ICON, in our case **RUBIKS CUBE**, this directory will be searched first for any playback.
+* Installation package package can have multiple diretcories, but only one will be prioritized.
 * Source code is not mandatory to include, but it is nice to have it there. Especially if someone wants to experiment with it.
 
 
