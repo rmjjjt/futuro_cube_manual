@@ -1,23 +1,23 @@
 # Installation packages
 
-Well, you have created super cool game with lots of nice sounds and you want to share it with others. So let us make it in the easiest way for them. Let us prepare installation package, that can be drag & drop in Rubik's Futuro Cube Suite.
+Well, you have created super cool game with lots of nice sounds and you want to share it with others. So let us make it in the most easiest way for them. Let us create installation package, that can be installed automatically with drag & drop in Rubik's Futuro Cube Suite.
 
 We will use as nice example RedKB's Rubik's cube app: [http://www.futurocube.com/score/?view=GAME&game\_id=39](http://www.futurocube.com/score/?view=GAME&game_id=39)
 
-From the same page you can download [installation package](http://isle.princip.cz/download/futurocube/games_library/Rubiks_Cube_1_3.zip) and see the internal structure:
+From the same page you can download [installation package](http://isle.princip.cz/download/futurocube/games_library/Rubiks_Cube_1_3.zip) and see the internal structure of the regular zip file:
 
 ```
 Rubiks_Cube_1_3.zip
 |
 |RUBIKS CUBE (directory)  //mandatory if you provide your own samples
-|     sample1.wav         //during installation it creates directory
-|     sample2.wav         //called "RUBIKS CUBE", which will be mounted
-|     sample3.wav         //with priority when the script starts
-|     sample4.wav         //in order to work it like that, ICON SCRIPT NAME
-|     sample5.wav         //must match folder name, see bellow
+|     sample1.wav         //during installation it uploads this directory
+|     sample2.wav         //called "RUBIKS CUBE", if the directory name matches 
+|     sample3.wav         //script name defined in ICON, see bellow, 
+|     sample4.wav         //this directory will be searched first for any request 
+|     sample5.wav         //playback from the script including name and description
 |     ...
-|     game_name.wav       //optional name and description files specified in ICON 
-|     game_desc.wav       //again those files are searched in preffered folder first
+|     game_name.wav       
+|     game_desc.wav       
 |     ...
 |
 |futurocube.inc           //API definition file used for compiling - not mandatory
@@ -44,7 +44,7 @@ new icon[]=[ICON_MAGIC1,                       //magic1, that allows structure t
             ICON_MAGIC3,                       //magic3, that allows structure to be recognized
             ''RUBIKS CUBE'',1,3,               //this is name of the script that matches name of prefered folder
                                                //and version of the application, i.e. RUBIKS CUBE ver 1.3
-                                               
+
             SCORE_BEST_IS_MIN|                 //score flags, read more in section OMLINE SCORE,
             SCORE_PRIMARY_TIME|                //leave 0 if no score is used
             SCORE_SECONDARY_POINTS|
