@@ -4,7 +4,7 @@ PAWN uses packed and unpacked strings.
 
 **Packed string** means that it will compress as many characters as possible into one cell and **unpacked** means that one cell contains only one character.
 
-How the string is constructed depends on the quotation marks: "packed string" and ''unpacked string''.
+How the string is constructed depends on the quotation marks: "packed string" and ' 'unpacked string' '.
 
 Using unpacked string is safer if you want to access the string as an array. Then you can address characters directly.
 
