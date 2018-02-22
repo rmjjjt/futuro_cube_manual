@@ -42,5 +42,3 @@ But, in case you are interested in playback of most accurate samples on the Rubi
 
 * [Sample rate compensation](/sound-resources/sample-rate-compensation.md)
 * [Frequency response compensation](/sound-resources/frequency-response-compensation.md)
-
-####
