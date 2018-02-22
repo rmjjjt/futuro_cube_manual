@@ -4,7 +4,7 @@ Easier to use set of functions for tap type Detection
 
 Syntax: `eTapSideOK()`
 
-Notes: Checks if any valid SIDE TAP is detected. It is usually called before `eTapSide()` to confirm correct results. If, for example TAP\_GENERIC would be registered as well,  `eTapSide()` might give the wrong output, because if the function cannot confirm a valid tap, it returns 0.
+Notes: Checks if any valid SIDE TAP is detected. It is usually called before `eTapSide()` to confirm correct results. If, for example TAP_GENERIC would be registered as well,  `eTapSide()` might give the wrong output, because if the function cannot confirm a valid tap, it returns 0.
 
 Syntax: `eTapSide()`
 
