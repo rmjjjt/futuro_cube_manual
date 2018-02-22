@@ -12,7 +12,7 @@ More information about PAWN, language syntax and other info can be found at:
 
 For a language syntax guide, look at:
 
-[http://www.compuphase.com/pawn/Pawn\_Language\_Guide.pdf](http://www.compuphase.com/pawn/Pawn_Language_Guide.pdf)
+[http://www.compuphase.com/pawn/Pawn_Language_Guide.pdf](http://www.compuphase.com/pawn/Pawn_Language_Guide.pdf)
 
 You will also need to download Rubik’s Futuro Cube Suite (RFC Suite), available for Windows and Mac OS.
 
