@@ -6,7 +6,7 @@ Definition of a function can be done with some parameters having default values.
 
 Many functions are structured in way that these default parameters are in last place and during call, they are simply not mentioned.
 
-```
+```c
 // Function definition
 AdjArray(arr[], pintensity, startindex = 0, count = sizeof arr, size = sizeof arr)
 {
