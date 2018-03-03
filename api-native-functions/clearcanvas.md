@@ -1,4 +1,4 @@
-# ClearCanvas
+## ClearCanvas
 
 Clear virtual canvas
 

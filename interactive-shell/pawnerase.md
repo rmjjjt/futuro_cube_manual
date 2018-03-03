@@ -1,4 +1,4 @@
-# pawnerase
+## pawnerase
 
 Erases scripts in RAM, FLASH and MYCUBE FLASH
 

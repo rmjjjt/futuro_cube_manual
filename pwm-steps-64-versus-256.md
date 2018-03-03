@@ -1,4 +1,4 @@
-# PWM steps - 64 versus 256
+## PWM steps - 64 versus 256
 
 LEDs on the cube surface are controlled by PWM modulation.
 In a regular run, there is (for each LED), 64 PWM steps available.

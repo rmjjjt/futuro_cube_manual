@@ -1,4 +1,4 @@
-# AdjCanvas
+## AdjCanvas
 
 Adjust intensity of the virtual canvas
 

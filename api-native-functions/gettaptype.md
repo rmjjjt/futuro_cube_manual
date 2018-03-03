@@ -1,4 +1,4 @@
-# GetTapType
+## GetTapType
 
 Decision between side, top and bottom tap
 

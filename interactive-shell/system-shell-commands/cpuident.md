@@ -1,4 +1,4 @@
-# cpuident
+## cpuident
 
 Displays unique CPU identifier programmed from factory.
 

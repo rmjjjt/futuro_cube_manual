@@ -1,4 +1,4 @@
-# varpawnerase
+## varpawnerase
 
 Erases pawn variable for debugging purposes
 

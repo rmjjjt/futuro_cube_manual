@@ -1,4 +1,4 @@
-# printf
+## printf
 
 Debug function for text output
 

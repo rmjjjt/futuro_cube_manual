@@ -1,4 +1,4 @@
-# GetAppMsecs
+## GetAppMsecs
 
 Milliseconds from application start
 

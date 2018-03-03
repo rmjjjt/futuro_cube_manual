@@ -1,4 +1,4 @@
-# iic
+## iic
 
 Checks I2C communication from main CPU to all sides. All errors and nacks are counted and added.
 

@@ -1,4 +1,4 @@
-# sn
+## sn
 
 Gives the serial number of the cube.
 

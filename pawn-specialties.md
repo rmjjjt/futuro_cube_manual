@@ -1,4 +1,4 @@
-# Pawn specialties
+## Pawn specialties
 
 We definitely recommend that you study the Pawn Language Guide at the following address:
 

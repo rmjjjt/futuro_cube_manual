@@ -1,4 +1,4 @@
-# CollisionTest 
+## CollisionTest
 
 Test two arrays for collisions
 
@@ -14,7 +14,7 @@ Notes: Destination array is cleared prior the operation. Collision is performed 
 
 Returns: returns number of collision points
 
-Example: 
+Example:
 
 * `if (CollisionTest(a, b)) {....}` test number of collision points without using dest
 * `if (CollisionTest(a, b, dest, WHITE)) {....}`, test number of collision points and stores WHITE into dest

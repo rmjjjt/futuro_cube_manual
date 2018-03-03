@@ -1,6 +1,6 @@
-# DrawTail 
+## DrawTail
 
-Debug function for displaying direction of walker 
+Debug function for displaying direction of walker
 
 Syntax: `DrawTail(w)`
 

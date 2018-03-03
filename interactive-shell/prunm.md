@@ -1,4 +1,4 @@
-# prunm
+## prunm
 
 Start script in FLASH - MYCUBE
 

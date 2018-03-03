@@ -1,4 +1,4 @@
-# Timers
+## Timers
 
 Futuro Cube offers 10 countdown timers for various usage.
 

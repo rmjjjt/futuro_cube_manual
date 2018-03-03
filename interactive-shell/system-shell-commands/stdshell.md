@@ -1,4 +1,4 @@
-# stdshell
+## stdshell
 
 Sets the shell into it's default state, plus kills the currently running script and clears the LEDs array.
 This command is useful in order to set the cube into standard behaviour and look.

@@ -1,6 +1,6 @@
-# Drawing style definition
+## Drawing style definition
 
-Drawing styles definition and explanation 
+Drawing styles definition and explanation
 
 ```
 STD 0, standard - new color overrides everything

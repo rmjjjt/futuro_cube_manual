@@ -1,4 +1,4 @@
-# Flash
+## Flash
 
 Scripts in flash may be 30 KBytes long (50 KBytes from FW 4.5) and use data and stack in the whole RAM section (11Kbytes).
 

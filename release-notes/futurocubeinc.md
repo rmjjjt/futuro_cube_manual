@@ -1,4 +1,4 @@
-# futurocube.inc
+## futurocube.inc
 
 Release notes for `futurocube.inc` version 1.2
 

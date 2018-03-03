@@ -1,11 +1,11 @@
-# ArrayToCanvas
+## ArrayToCanvas
 
 Load virtual canvas from array
 
 Syntax: `ArrayToCanvas(arr[],size=sizeof arr)`
 
-* `arr[]` source array 
-* `size` size of the array, must be 54, otherwise exception is raised 
+* `arr[]` source array
+* `size` size of the array, must be 54, otherwise exception is raised
 
 Returns: Function always returns 0
 

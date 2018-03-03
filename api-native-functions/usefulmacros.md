@@ -1,6 +1,6 @@
-# Useful macros 
+## Useful macros
 
-Useful defined macros 
+Useful defined macros
 ```
 INDEX MASK        0x000000FF, mask for retrieving index
 _i(val)           (val&INDEX MASK), index macro

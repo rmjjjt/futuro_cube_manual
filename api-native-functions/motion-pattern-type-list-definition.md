@@ -1,4 +1,4 @@
-# Motion pattern type list definition 
+## Motion pattern type list definition
 
 Definition of basic motion pattern:
 

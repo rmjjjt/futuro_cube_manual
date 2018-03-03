@@ -1,4 +1,4 @@
-# Default parameters
+## Default parameters
 
 This is a beautiful feature of PAWN known from higher languages.
 

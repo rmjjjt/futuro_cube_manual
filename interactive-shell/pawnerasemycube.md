@@ -1,4 +1,4 @@
-# pawnerasemycube
+## pawnerasemycube
 
 Erases scripts in MYCUBE - from FW 4.5
 

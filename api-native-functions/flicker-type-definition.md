@@ -1,4 +1,4 @@
-# Flicker type definition 
+## Flicker type definition
 
 Flicker types definition and explanation
 

@@ -1,4 +1,4 @@
-# prunf N
+## prunf N
 
 Start script with index N in FLASH - from FW 4.5
 

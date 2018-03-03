@@ -1,4 +1,4 @@
-# setpawnauto
+## setpawnauto
 
 Auto script start for multiple scripts - from FW 4.5
 

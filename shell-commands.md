@@ -1,4 +1,4 @@
-# Interactive shell
+## Interactive shell
 
 When Rubik’s Futuro Cube is connected to a PC, it is possible to communicate with the cube using the interactive command shell.
 
@@ -6,7 +6,7 @@ Shell can be easily accessed from Rubik's Futuro Cube Suite, but is available fo
 
 Before accessing the shell from other applications it is recommended to cycle USB to reset communication on character basis. This eventually resets more complex communication scheme. Note that in this case, characters are not automatically sent back to the terminal. Use command `echoon` if needed.
 
-## Default shell settings
+##  Default shell settings
 
 Anytime USB is plugged into an active port, the cube gets reset to it's default state.
 Unless it is connected to RFC Suite, the charging display is launched.
@@ -22,7 +22,7 @@ After each reset the shell restarts with these settings:
 
 (1) In multiplexed packet line mode RFC has internally several lines like SHELL LINE, BOOT LINE, NAND BOOT LINE, SCRIPT BOOT LINE and FAST/SLOW RAW MOTION DATA LINE. Those lines are multiplexed in separated packets with information like size and check sum. We can provide details upon request.
 
-## Shell in RFC Suite
+##  Shell in RFC Suite
 
 SDK view in RFC Suite offers direct access to the cube shell. Everything is set and ready to go as soon as you switch to this mode.
 You can very easily test all available shell commands there.
@@ -33,17 +33,17 @@ Therefore, this must be kept in mind if other proprietary apps want to access th
 
 ![](/assets/shell_example.jpg)
 
-## Setting shell to default from any app
+##  Setting shell to default from any app
 
 If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to it's default state under any condition (with no need to cycle USB).
 The code is in python, but can be ported to any language you use.
 
 ```
-##########################################
-# somewhere in code open sline serial port
-##########################################
+## ########################################
+## somewhere in code open sline serial port
+## ########################################
 sline = serial.Serial()
-##########################################
+## ########################################
 def init_basic_shell(kill_clean = 1):
   sline.timeout = 0
 

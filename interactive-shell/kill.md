@@ -1,4 +1,4 @@
-# kill
+## kill
 
 Kill currently running script or game.
 

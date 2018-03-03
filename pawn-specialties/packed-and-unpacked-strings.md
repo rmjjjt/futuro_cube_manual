@@ -1,4 +1,4 @@
-# Packed and unpacked strings and arrays
+## Packed and unpacked strings and arrays
 
 Pawn is typeless lanaguage and each stored information take one cell. Size of the cell depends on the platform. In our case for Rubik's Futuro Cube it is always 32bits, i.e for bytes. This makes the language easy to use, but for example storing **long texts** or in our case mostly some **mazes definitions** or **levels** would take too much of the available memory. That is why PAWN brought packed strings or arrays. If a piece of information can be fit into 1 byte &lt;0..255&gt;, than everything takes 4 time less space in RAM.
 
@@ -16,13 +16,13 @@ Next example shows how to work with it and how it is stored in memory:
 main()
 {
   new i
-  
+
   new msg1[]=''hello''  //we are indexing msg1[0]...msg1[1]...
   for (i=0;i<sizeof(msg1);i++) printf("_%c",msg1[i]);
   printf("\nunpacked string representation in memory\n")
   PrintArray(msg1)
   printf("\n")
-  
+
   new msg2{}="hello"    //we are indexing msg1{0}...msg1{1}...
   for (i=0;i<sizeof(msg2);i++) printf("_%c",msg2{i});
   printf("\npacked string representation in memory\n")
@@ -40,7 +40,7 @@ unpacked string representation in memory
 _h_e
 packed string representation in memory
 
-(  0) 68656C6C 6F000000                           lleh...o     
+(  0) 68656C6C 6F000000                           lleh...o
 ```
 
 **The second output is not what you maybe expected!**
@@ -49,7 +49,7 @@ packed string representation in memory
 _h_e
 ```
 
-This is because operator **sizeof gives always only number of used cells** and not number of elements. In this case would be better to use something like `strlen`, but this function must be implemented separately. 
+This is because operator **sizeof gives always only number of used cells** and not number of elements. In this case would be better to use something like `strlen`, but this function must be implemented separately.
 
 Typical usage of the packed arrays are levels, mazes definitions or list of sound files, in following examples they occupy as less space as possible:
 
@@ -59,7 +59,7 @@ Typical usage of the packed arrays are levels, mazes definitions or list of soun
 new i
 
 main()
-{ 
+{
   new songs[]{}=["song1","song2","song3"]
 
   for (i=0;i<sizeof(songs);i++) printf("%s\n",songs[i])
@@ -70,8 +70,8 @@ main()
     if (IsPlayOver())
     {
      Play(songs[GetRnd(sizeof songs)])
-    } 
-  } 
+    }
+  }
 
 }
 ```
@@ -114,7 +114,7 @@ new const train_levels[]{57} = [
                                  'x',' ',' ',
                                  ' ','x','x',
                                  //--------//
-etc....                                 
+etc....
 ```
 
 

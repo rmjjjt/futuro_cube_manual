@@ -1,4 +1,4 @@
-# appinfo
+## appinfo
 
 Displays various information about FW and it's memory map/usage.
 

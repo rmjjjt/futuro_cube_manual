@@ -1,4 +1,4 @@
-# setpawn
+## setpawn
 
 Sets automatic script starts. Obsolete in FW 4.5
 

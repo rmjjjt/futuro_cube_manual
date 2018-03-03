@@ -1,17 +1,17 @@
-# GetRnd
+## GetRnd
 
-Read value from random generator 
+Read value from random generator
 
-Syntax: `GetRnd(size)` 
+Syntax: `GetRnd(size)`
 
-* `size` defines output size 
+* `size` defines output size
 
 Returns: Returns (value%size)
 
 Notes: This function returns a value from random generator with its modulo operation
-over given size 
+over given size
 
-Example: 
+Example:
 
 * `GetRnd(3)`, gives back numbers in range <0...2>
 

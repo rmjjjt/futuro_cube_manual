@@ -1,5 +1,5 @@
-# Motion Detector Example
-## By Josip Miskovic
+## Motion Detector Example
+##  By Josip Miskovic
 
 This example shows a bit of advanced working with raw accelerometer data.
 It detects motion and colors of the whole cube depending on motion direction. Mildly amusing.

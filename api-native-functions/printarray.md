@@ -1,4 +1,4 @@
-# PrintArray 
+## PrintArray
 
 Debug function, print array values to terminal
 

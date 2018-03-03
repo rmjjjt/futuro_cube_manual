@@ -1,4 +1,4 @@
-# GetTapSide
+## GetTapSide
 
 Gives back the number of the side that has been tapped
 

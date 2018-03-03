@@ -1,4 +1,4 @@
-# SetStillClick
+## SetStillClick
 
 Enables or disables the still click feature
 

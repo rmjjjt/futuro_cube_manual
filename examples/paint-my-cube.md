@@ -1,4 +1,4 @@
-# Paint MyCube Example
+## Paint MyCube Example
 
 This example shows a simple application for painting on the cube with several commands. Serves
 perfectly as a MYCUBE script example. A tap from the side changes color of the brush, a tap from the

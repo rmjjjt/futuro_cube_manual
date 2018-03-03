@@ -1,13 +1,13 @@
-# Preset color definition 
+## Preset color definition
 
-Definition of presets colors for classic cube puzzles 
+Definition of presets colors for classic cube puzzles
 
 ```c
 cGREEN 0x00640000
 ```
 
 ```c
-cBLUE 0x00008000 
+cBLUE 0x00008000
 ```
 
 ```c

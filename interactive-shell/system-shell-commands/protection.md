@@ -1,4 +1,4 @@
-# protection
+## protection
 
 Displays CPU read out and other protection info. Correctly protected cube should give following output:
 

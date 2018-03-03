@@ -1,4 +1,4 @@
-# SetRgbColor(r,g,b)
+## SetRgbColor(r,g,b)
 
 Set the current color by each color component
 

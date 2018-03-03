@@ -1,4 +1,4 @@
-# StoreVariable 
+## StoreVariable
 
 Stores given array as named variable
 

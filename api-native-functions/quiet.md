@@ -1,10 +1,10 @@
-# Quiet 
+## Quiet
 
 Stops all current playback with melody generation.
 
-Syntax: `Quiet()` 
+Syntax: `Quiet()`
 
-Notes: This function stops all ongoing playbacks and also melody generation. 
+Notes: This function stops all ongoing playbacks and also melody generation.
 
 Example: `Quiet()`
 

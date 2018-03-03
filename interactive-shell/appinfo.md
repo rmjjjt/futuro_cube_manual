@@ -1,4 +1,4 @@
-# appinfo
+## appinfo
 
 Gives back memory layout of FW.
 

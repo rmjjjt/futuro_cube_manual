@@ -1,4 +1,4 @@
-# API Native Functions
+## API Native Functions
 
 * Graphics
 * Motion

@@ -1,4 +1,4 @@
-# WaitPlayOver
+## WaitPlayOver
 
 Wait until any play in progress is over
 

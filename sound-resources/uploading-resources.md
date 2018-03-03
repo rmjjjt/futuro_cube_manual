@@ -1,4 +1,4 @@
-# Uploading resources
+## Uploading resources
 
 Resources can be uploaded only by [Rubik's Futuro Cube Suite](http://www.futurocube.com/support/).
 The input point is a directory or zipped package.

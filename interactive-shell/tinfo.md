@@ -1,4 +1,4 @@
-# tinfo
+## tinfo
 
 Displays current task information
 

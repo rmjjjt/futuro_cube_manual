@@ -1,4 +1,4 @@
-# SetIntensity
+## SetIntensity
 
 Set current intensity for all color components
 

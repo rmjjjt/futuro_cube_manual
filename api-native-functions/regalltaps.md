@@ -1,12 +1,12 @@
-# RegAllTaps 
+## RegAllTaps
 
-Register generic tap and all side taps. 
+Register generic tap and all side taps.
 
-Syntax: `RegAllTaps()` 
+Syntax: `RegAllTaps()`
 
-Notes: This function registers generic taps and all side taps. 
+Notes: This function registers generic taps and all side taps.
 
-Example: `RegAllTaps()` 
+Example: `RegAllTaps()`
 
 See also: [RegAllSideTaps](/api-native-functions/regallsidetaps.md)
 

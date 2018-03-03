@@ -1,4 +1,4 @@
-# Defuser Example
+## Defuser Example
 
 This example is simple game. Bombs are placed randomly on the cube surface and they must be defused by
 placing cursor on them followed by a generic tap. Time is limited and every bomb counts for the

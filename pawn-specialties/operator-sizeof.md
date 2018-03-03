@@ -1,4 +1,4 @@
-# Operator sizeof
+## Operator sizeof
 
 Many functions are using `sizeof` operator as one of the default values.
 
@@ -51,5 +51,5 @@ new msg{}={1,2,3,256}     //you get error, because last element is bigger than 2
                           //check more details at packed und unpacked description
 ```
 
-**Note:** "sizeof" can be used either with braces or without, i.e. sizeof\(msg\) is equal to sizeof msg.
+**Note:** "sizeof" can be used either with braces or without, i.e. sizeof(msg) is equal to sizeof msg.
 

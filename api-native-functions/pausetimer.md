@@ -1,4 +1,4 @@
-# PauseTimer
+## PauseTimer
 
 Pause one of the 10 countdown timers
 

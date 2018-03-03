@@ -1,4 +1,4 @@
-# MyCube
+## MyCube
 
 MyCube scripts are scripts of size up to 10 KBytes (stack in RAM as well), that are written for special purposes.
 

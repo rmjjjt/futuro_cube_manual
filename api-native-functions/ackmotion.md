@@ -1,4 +1,4 @@
-# AckMotion
+## AckMotion
 
 Acknowledge reception of recognized motion patterns
 

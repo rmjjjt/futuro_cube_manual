@@ -1,4 +1,4 @@
-# Walkers, Squares, Indexes
+## Walkers, Squares, Indexes
 
 Each square on the cube surface is defined by a specific **INDEX **or specific **SIDE** and **SQUARE** number.
 

@@ -1,4 +1,4 @@
-# ClearCube
+## ClearCube
 
 Clear all RGB LEDs on the cube
 

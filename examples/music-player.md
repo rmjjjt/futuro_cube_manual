@@ -1,4 +1,4 @@
-# Music Player Example
+## Music Player Example
 
 An example of a simple player that plays all files in the directory JUKEBOX
 if JUKEBOX does not exist, it plays all files from main resources (if they do exist)

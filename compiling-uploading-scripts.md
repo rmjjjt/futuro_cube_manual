@@ -1,4 +1,4 @@
-# Compiling, uploading and erasing scripts
+## Compiling, uploading and erasing scripts
 
 Scripts can be uploaded into three destinations:
 

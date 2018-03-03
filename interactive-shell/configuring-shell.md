@@ -1,13 +1,13 @@
-# Accessing shell any time
+## Accessing shell any time
 
 If you want create a smart app that will communicate with RFC any time, there is a sequence that resets the shell to its default state under any condition (no need to cycle USB). The code is in python, but can be ported to any language you use. The idea is to send command [stdshell ](/interactive_shell/system-shell-commands/stdshell.md)or [stdshellnk](/interactive_shell/system-shell-commands/stdshellnk.md)[ ](/interactive-shell/system-shell-commands/stdshellnk.md)in multiplexed packet mode (for cases the cube was in this mode) in order to switch it to default mode.
 
 ```
-##########################################
-# somewhere in code open sline serial port
-##########################################
+## ########################################
+## somewhere in code open sline serial port
+## ########################################
 sline = serial.Serial()
-##########################################
+## ########################################
 def init_basic_shell(kill_clean = 1):
   sline.timeout = 0
 

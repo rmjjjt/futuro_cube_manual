@@ -1,4 +1,4 @@
-# System shell commands
+## System shell commands
 
 * [appinfo](system-shell-commands/appinfo.md)
 * [bident](system-shell-commands/bident.md)

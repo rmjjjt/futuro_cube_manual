@@ -1,4 +1,4 @@
-# Starting scripts in the standard way
+## Starting scripts in the standard way
 
 During debugging all scripts can be started by using shell commands. But at regular run, there are differences for **MyCube** scripts and scripts in **FLASH**. **MyCube** is a special case - it has a dedicated start and is repeating the **MENU GESTURE** in **GAME MENU**.
 

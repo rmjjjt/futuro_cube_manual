@@ -1,13 +1,13 @@
-# WalkerDiff
+## WalkerDiff
 
 Calculates distance in 2D coordinate system and hints the next step
 
 Syntax: `WalkerDiff(wa,wb,dx,dy)`
 
-* `wa` walker or index of spot A 
-* `wb` walker or index of spot B 
-* `dx` place to store the difference in x coordinate 
-* `dy` place to store  thedifference in y coordinate 
+* `wa` walker or index of spot A
+* `wb` walker or index of spot B
+* `dx` place to store the difference in x coordinate
+* `dy` place to store  thedifference in y coordinate
 
 Returns:
 

@@ -1,4 +1,4 @@
-# Sleep
+## Sleep
 
 Gives control to system and waits until new game accelerometer data arrives
 
@@ -9,7 +9,7 @@ Notes: This function is essential for cooperative multitasking. It should be cal
 Example:
 
 * `Sleep()`, most general use of sleep, waits for new data, gives time to system
-* `Sleep(100)`, same as `Delay(100)` 
+* `Sleep(100)`, same as `Delay(100)`
 
 See also: [Delay](/api-native-functions/delay.md)
 

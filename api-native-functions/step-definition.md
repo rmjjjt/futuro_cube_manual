@@ -1,4 +1,4 @@
-# STEP definition
+## STEP definition
 
 Defined values for step types:
 

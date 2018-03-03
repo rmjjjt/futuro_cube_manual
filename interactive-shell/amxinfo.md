@@ -1,4 +1,4 @@
-# amxinfo
+## amxinfo
 
 Displays info about stacks and data when the script is running.
 

@@ -1,4 +1,4 @@
-# Score definition
+## Score definition
 
 Defined values for score types
 

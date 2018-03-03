@@ -1,4 +1,4 @@
-# Frequency response compensation
+## Frequency response compensation
 
 We can add a nice touch to the process of sound preparation.
 Due to the mechanical and physical properties of the speaker in the cube, the frequency response is not perfectly flat.

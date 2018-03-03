@@ -1,4 +1,4 @@
-# Motion
+## Motion
 
 Detects if any registered motion pattern has been recognized
 

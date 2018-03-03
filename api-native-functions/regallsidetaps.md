@@ -1,4 +1,4 @@
-# RegAllSideTaps
+## RegAllSideTaps
 
 Register taps to all sides
 

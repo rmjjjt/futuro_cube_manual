@@ -1,4 +1,4 @@
-# Sample rate compensation
+## Sample rate compensation
 
 The playback engine in Rubik's Futuro Cube does not exactly have output rate equal to 22.050kHz or 11.025kHz.
 In fact it is 22kHz and 11kHz.

@@ -1,4 +1,4 @@
-# LoadVariable 
+## LoadVariable
 
 Load data of named variable to given array
 

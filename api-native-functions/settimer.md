@@ -1,4 +1,4 @@
-# SetTimer
+## SetTimer
 
 Sets in milliseconds one of 10 countdown timers
 
@@ -10,8 +10,8 @@ Notes: This function sets one of 10 available countdown timers to a value that r
 
 Example:
 
-* `SetTimer()`, set timer 0 to value 1000 milliseconds 
-* `SetTimer(1,200)`, set timer 1 to value 200 milliseconds 
+* `SetTimer()`, set timer 0 to value 1000 milliseconds
+* `SetTimer(1,200)`, set timer 1 to value 200 milliseconds
 
 See also: [GetTimer](/api-native-functions/gettimer.md), [PauseTimer](/api-native-functions/pausetimer.md), [ResumeTimer](/api-native-functions/resumetimer.md)
 

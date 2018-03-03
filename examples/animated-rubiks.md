@@ -1,4 +1,4 @@
-# Animated Rubik's Cube Example
+## Animated Rubik's Cube Example
 
 This example shows the simple implementation of rubik's cube with animated rotations.
 Direction of rotation is determined by the inclination of the tapped side.

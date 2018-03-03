@@ -1,4 +1,4 @@
-# WalkerGetNorm
+## WalkerGetNorm
 
 Retreive normal vector from walker
 

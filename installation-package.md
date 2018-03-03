@@ -1,4 +1,4 @@
-# Installation packages
+## Installation packages
 
 Well, now you have created a super cool game with lots of nice sounds and you want to share it with others.
 So let's make it as easy as we can for them.
@@ -63,7 +63,7 @@ main()
     ...
 ```
 
-#### Good rules to follow
+## ## Good rules to follow
 
 * The name of the package should contain the name and the version, in our case **Rubiks_Cube_1_3.zip**
 * Compiled script (file with amx extension) and source code (file with p extension) shall be named similarly, i.e. **Rubiks_Cube_1_3.amx** and **Rubiks_Cube_1_3.amx.p**.** **

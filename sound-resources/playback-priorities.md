@@ -1,4 +1,4 @@
-# Playback priorities
+## Playback priorities
 
 The playback engine supports a total of 4 audio channels, which are mixed in real time.
 Channels are sequenced in order and the engine always looks for the first available quiet channel.

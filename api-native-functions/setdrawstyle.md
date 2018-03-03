@@ -1,4 +1,4 @@
-# SetDrawStyle
+## SetDrawStyle
 
 Set draw style for all drawing functions
 

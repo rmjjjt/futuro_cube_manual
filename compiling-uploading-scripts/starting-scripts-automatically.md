@@ -1,4 +1,4 @@
-# Starting scripts automatically
+## Starting scripts automatically
 
 There is a special setting available that allows users to start scripts automatically either when the USB is plugged or unplugged.
 

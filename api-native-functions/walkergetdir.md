@@ -1,11 +1,11 @@
-# WalkerGetDir
+## WalkerGetDir
 
 Retreive direction vector from walker
 
 Syntax: `WalkerGetDir(wlk,vect[3])`
 
 * `wlk` walker for examination
-* `vect[3]` vector of size 3 - where to store direction vector 
+* `vect[3]` vector of size 3 - where to store direction vector
 
 Notes: This function unpacks the direction vector from the structure of walker.
 

@@ -1,4 +1,4 @@
-# bident
+## bident
 
 Displays bootloader identification.
 

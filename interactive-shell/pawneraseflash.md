@@ -1,4 +1,4 @@
-# pawneraseflash
+## pawneraseflash
 
 Erases scripts in FLASH - from FW 4.5
 

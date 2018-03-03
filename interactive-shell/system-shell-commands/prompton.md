@@ -1,5 +1,5 @@
-# prompton
+## prompton
 
-Enables output of **"$&gt;"** prompt (default). 
+Enables output of **"$&gt;"** prompt (default).
 
 Syntax: `prompton`

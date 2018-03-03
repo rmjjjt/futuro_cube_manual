@@ -1,7 +1,7 @@
-# Restart 
+## Restart
 
-Restart current script 
+Restart current script
 
-Syntax: `Restart()` 
+Syntax: `Restart()`
 
 Example: `Restart()`, script will be restarted

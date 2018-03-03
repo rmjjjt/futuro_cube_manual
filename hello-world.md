@@ -1,4 +1,4 @@
-# Hello world
+## Hello world
 
 Let us code, compile and run your first program.
 
@@ -29,13 +29,13 @@ $>
 
 ---
 
-Rubik’s Futuro Suite contains a standard PAWN compiler and allows you to compile scripts automatically with preset recommended stack and optimization settings \(these can be adjusted by experienced user\).
+Rubik’s Futuro Suite contains a standard PAWN compiler and allows you to compile scripts automatically with preset recommended stack and optimization settings (these can be adjusted by experienced user).
 
 ---
 
 * Create a directory, where you will have your first program and download there API definition file called "**futurocube.inc"** Something like header in C language, there is always[ link on SDK page](http://www.futurocube.com/sdk/) to the latest version.
 
-* In you favorite text editor create file **hello.p** \(**p** extension is neccesary for RFCSuite to find this file\). Simply copy, paste and save there next lines:
+* In you favorite text editor create file **hello.p** (**p** extension is neccesary for RFCSuite to find this file). Simply copy, paste and save there next lines:
 
 ```c
 #include <futurocube>

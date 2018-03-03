@@ -1,4 +1,4 @@
-# GetMsecs
+## GetMsecs
 
 Milliseconds from system start
 

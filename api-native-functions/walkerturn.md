@@ -1,4 +1,4 @@
-# WalkerTurn
+## WalkerTurn
 
 Turns walker to the right or left
 
@@ -10,12 +10,12 @@ Returns: This function always returns 0.
 
 Notes: The step parameter may be one of these:
 
-* `TURN_RIGHT` turns walker to the right 
-* `TURN_LEFT` turns walker to the left 
+* `TURN_RIGHT` turns walker to the right
+* `TURN_LEFT` turns walker to the left
 
-Example: 
+Example:
 
-* `WalkerTurn(walk)`turns walk to the right 
+* `WalkerTurn(walk)`turns walk to the right
 * `WalkerTurn(walk),TURN LEFT)`turns walk to the left
 
 See also: [WalkerMove](/api-native-functions/walkermove.md)

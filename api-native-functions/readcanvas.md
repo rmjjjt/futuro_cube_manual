@@ -1,10 +1,10 @@
-# ReadCanvas
+## ReadCanvas
 
 Read color from the virtual canvas
 
 Syntax: `ReadCanvas(wi)`
 
-* `wi` walker or spot index 
+* `wi` walker or spot index
 
 Returns: Color that the virtual canvas contains at the given position.
 

@@ -1,4 +1,4 @@
-# prun
+## prun
 
 Start script in RAM
 

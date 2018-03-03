@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Welcome to the world of programming Rubik’s Futuro Cube. We hope you enjoy it as much as we enjoyed creating this development kit. Rubik’s Futuro Cube can be programmed by using a simple, typeless 32-bit language called ”PAWN”.
 

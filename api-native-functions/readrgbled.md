@@ -1,8 +1,8 @@
-# ReadRGBLed
+## ReadRGBLed
 
 Reads the actual RGB color that is currently displayed on the cube
 
-Syntax: `ReadRGBLed(wi)` 
+Syntax: `ReadRGBLed(wi)`
 
 * `wi` walker or spot index
 

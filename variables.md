@@ -1,4 +1,4 @@
-# Variables
+## Variables
 
 PAWN scripts can access persistent variables where, for example, some game states can be stored for the next run.
 

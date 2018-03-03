@@ -1,4 +1,4 @@
-# restart
+## restart
 
 Restarts the cube immediately.
 

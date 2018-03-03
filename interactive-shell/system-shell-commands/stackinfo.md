@@ -1,6 +1,6 @@
-# stackinfo
+## stackinfo
 
-Display information about stack of main FW, namely it's main process. This stack is mainly used by the shell interpreter and mostly by commands that are working with NAND memory. 
+Display information about stack of main FW, namely it's main process. This stack is mainly used by the shell interpreter and mostly by commands that are working with NAND memory.
 
 Syntax: `stackinfo`
 

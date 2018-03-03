@@ -1,4 +1,4 @@
-# Tapping Example
+## Tapping Example
 
 This example shows how to easily setup taps to sides to be recognized.
 Also, double tap signal is used for lighting up the entire cube.

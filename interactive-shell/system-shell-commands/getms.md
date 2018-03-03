@@ -1,4 +1,4 @@
-# getms
+## getms
 
 Reads system time in milliseconds. This is the time from last RESET. Reset is usually caused by a USB cycle.
 

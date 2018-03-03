@@ -1,4 +1,4 @@
-# SetColor
+## SetColor
 
 Set the current color
 
@@ -6,8 +6,8 @@ Syntax: `SetColor(value=0xffffff00)` value is a 32 bit number that represents th
 
 Example:
 
-* `SetColor(cGREEN)` 
-* `SetColor(RED)` 
+* `SetColor(cGREEN)`
+* `SetColor(RED)`
 * `SetColor(0xFFAB1200)`
 * `SetColor(3) // set color at pallet number 3`
 

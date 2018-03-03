@@ -1,17 +1,17 @@
-# Melody 
+## Melody
 
-Plays a ring tone melody 
+Plays a ring tone melody
 
-Syntax: `Melody(song)` 
+Syntax: `Melody(song)`
 
-* `song` string array containing ring tone melody 
+* `song` string array containing ring tone melody
 
-Notes: This plays a standard ring tone melody, which is automatically generated and the system uses `Play()` for sending notes to output 
+Notes: This plays a standard ring tone melody, which is automatically generated and the system uses `Play()` for sending notes to output
 
-Example: 
+Example:
 
 * `mel="name:d=4,o=5,b=125:p,8p,16b,16a,b"`
-* `Melody(mel)` , starts to play `mel` 
+* `Melody(mel)` , starts to play `mel`
 
 See also: [Play](/api-native-functions/play.md)
 

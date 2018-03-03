@@ -1,10 +1,10 @@
-# DrawScore
+## DrawScore
 
 Example of drawing the score in the regular way
 
 Syntax: `draw_score(side, number)`
 
-* `side` side 
+* `side` side
 * `number` score
 
 Notes: this function draws a number up to three digits, the same as [Score](score.md)

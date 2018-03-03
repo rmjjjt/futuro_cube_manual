@@ -1,4 +1,4 @@
-# Walker Example
+## Walker Example
 
 This example shows how to walk with walker by tapping the sides. If a tap from the same
 side is detected, walker will continue his direction. Orientation of walker can

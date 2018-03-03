@@ -1,4 +1,4 @@
-# Easy Tap Type Detection
+## Easy Tap Type Detection
 
 Easier to use set of functions for tap type Detection
 

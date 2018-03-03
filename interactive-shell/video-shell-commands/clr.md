@@ -1,4 +1,4 @@
-# clr
+## clr
 
 Clears video memory at cube with immediate effect.
 

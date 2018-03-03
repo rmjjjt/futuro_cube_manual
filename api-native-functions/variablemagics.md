@@ -1,4 +1,4 @@
-# VARIABLE magics
+## VARIABLE magics
 
 Defined values for VARIABLE magics
 

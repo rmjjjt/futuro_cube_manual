@@ -1,10 +1,10 @@
-# SetRndSeed
+## SetRndSeed
 
 Set random seed into random generator
 
 Syntax: `SetRndSeed(seed)`
 
-* `seed` seed to random generator 
+* `seed` seed to random generator
 
 Example:
 

@@ -1,4 +1,4 @@
-# Differences between C and PAWN
+## Differences between C and PAWN
 
 If you know how to program in C, than program in PAWN is like being at your second home. However there are couple differences to keep in mind. Next list shows most important of them to make life easier:
 
