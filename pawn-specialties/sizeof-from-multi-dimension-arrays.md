@@ -9,7 +9,7 @@ printf("%d %d", sizeof matrix, sizeof matrix[]);
 3 2
 ```
 
-**Be careful, because there is one sitution, where it does not work:**
+**Be careful because there is one situation where it does not work:**
 
 ```c
 This works as expected:
@@ -19,7 +19,7 @@ printf("%d %d", sizeof matrix, sizeof matrix[]);
 
 3 2
 
-This does not work (it is due to the fact that size of minor array is not same for all members):
+This does not work (it is due to the fact that the size of the minor array is not the same for all members):
 
 new matrix[][] = [ [1, 2, 3], [3, 4], [5, 6 ] ]
 printf("%d %d", sizeof matrix, sizeof matrix[]);
