@@ -22,7 +22,7 @@ Upload file: C:\RFC\hello.amx, sd:99
 $>
 ```
 
-We just have sucessfully compiled **hello.p** to **hello.amx** and uploaded to RAM memory of the cube. Now we should run the program. We have 2 options and we will show you both. The **second one** is the most widely used.
+We just have successfully compiled **hello.p** to **hello.amx** and uploaded to the RAM memory of the cube. Now we should run the program. We have 2 options and we will show you both. The **second one** is the most widely used.
 
 ## # 1. by shell command
 
@@ -67,11 +67,11 @@ no script!
 
 TBD - picture from CorelDraw
 
-As you can see our only text output **"hello world"** is a bit hidden in many other information, which we do not need to pay attention now, but on the top side of the cube, there should be square.
+As you can see our only text output **"hello world"** is a bit hidden by lots of other information, which we do not need to pay attention to right now, but on the top side of the cube, there should be a square.
 
 ## # 2. by RFCSuite - most common for development
 
 ![](/assets/run_and_stop.jpg)
 
-If you check options above (**run after upload** and **stop script before compile**), you get very nice and automated flow. Because if the script has been compiled without errors, it is automatically uploaded either for RAM of FLASH and immediately started. We do recommend to check as well **stop script before compile**, this is very useful. If the previously running script has some extensive text outputs, you might miss what is giong on during compilation...
+If you check options above (**run after upload** and **stop script before compile**), you get a very nice and automated flow. Because, if the script has been compiled without errors, it is automatically uploaded either for RAM of FLASH and immediately started. We do recommend to check as well **stop script before compile** - this is very useful. If the previously running script has some extensive text outputs, you might miss what is going on during compilation...
 
