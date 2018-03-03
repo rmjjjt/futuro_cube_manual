@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [Licenses](/licenses.md#licenses)
 * [Hello World](/hello-world.md)
+  * [Compile and Run Hello World](hello-world/compile-and-run-hello-world.md)
+  * [Some more fun with Hello World](hello-world/some-more-fun-with-hello-world.md)
 * [Walkers, Squares, Indexes](/walkers-squares-indexes.md)
   * [Sides and Squares](walkers-squares-indexes/sides-and-squares.md)
   * [Indices](walkers-squares-indexes/indices.md)
@@ -21,7 +23,8 @@
   * [Default parameters](pawn-specialties/default-parameters.md)
   * [Operator sizeof](pawn-specialties/operator-sizeof.md)
   * [Sizeof from multi-dimension arrays](pawn-specialties/sizeof-from-multi-dimension-arrays.md)
-  * [Packed and unpacked strings](pawn-specialties/packed-and-unpacked-strings.md)
+  * [Packed and unpacked](pawn-specialties/packed-and-unpacked-strings.md)
+  * [Differences between C and PAWN](pawn-specialties/differences-between-c-and-pawn.md)
 * [Colors, palettes and drawing](colors-palettes-and-drawing.md)
 * [PWM steps - 64 versus 256](pwm-steps-64-versus-256.md)
 * [Push Pop Arrays](push-pop-arrays.md)
@@ -45,7 +48,7 @@
     * [boot](interactive-shell/system-shell-commands/boot.md)
     * [restart](interactive-shell/system-shell-commands/restart.md)
     * [appinfo](interactive-shell/system-shell-commands/appinfo.md)
-    * [fwident(r)](interactive-shell/system-shell-commands/fwidentr.md)
+    * [fwident\(r\)](interactive-shell/system-shell-commands/fwidentr.md)
     * [cpuident](interactive-shell/system-shell-commands/cpuident.md)
     * [bident](interactive-shell/system-shell-commands/bident.md)
     * [protection](interactive-shell/system-shell-commands/protection.md)
@@ -92,7 +95,7 @@
     * SetPointColor
     * [DrawPoint](api-native-functions/drawpoint.md)
     * [DrawSide](api-native-functions/drawside.md)
-    * [SetRgbColor(r,g,b)](api-native-functions/setrgbcolorrgb.md)
+    * [SetRgbColor\(r,g,b\)](api-native-functions/setrgbcolorrgb.md)
     * [DrawSquare](api-native-functions/drawsquare.md)
     * [DrawCross](api-native-functions/drawcross.md)
     * [PushCanvas](api-native-functions/pushcanvas.md)
@@ -150,18 +153,18 @@
     * [WalkerMove](api-native-functions/walkermove.md)
     * [WalkerTurn](api-native-functions/walkerturn.md)
     * [WalkerDiff](api-native-functions/walkerdiff.md)
-    * Resolve_Buddies
-    * Opposite_Step
+    * Resolve\_Buddies
+    * Opposite\_Step
     * GetCsPoint
-    * Kick_Walker
-    * Diff_To_Spot_Step
+    * Kick\_Walker
+    * Diff\_To\_Spot\_Step
     * [WalkerGetDir](api-native-functions/walkergetdir.md)
     * [WalkerSetDir](api-native-functions/walkersetdir.md)
     * [WalkerGetNorm](api-native-functions/walkergetnorm.md)
     * [WalkerBuddy](api-native-functions/walkerbuddy.md)
     * [WalkerDirUp](api-native-functions/walkerdirup.md)
     * [WalkerCompareDir](api-native-functions/walkercomparedir.md)
-    * [Walker Init / _w](api-native-functions/w.md)
+    * [Walker Init / \_w](api-native-functions/w.md)
   * Scores
     * [Score Definition](api-native-functions/score-definition.md)
     * SetScore
@@ -251,8 +254,8 @@
     * [SetStillClick](api-native-functions/setstillclick.md)
     * AddActiveTime
     * ModsSelect
-    * Pawn_Score
-    * Announce_Score
+    * Pawn\_Score
+    * Announce\_Score
     * [DrawDigit](api-native-functions/drawdigit.md)
     * [Icon](api-native-functions/icon.md)
     * [PrintArray](api-native-functions/printarray.md)

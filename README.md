@@ -2,9 +2,17 @@
 
 Welcome to the world of programming Rubik’s Futuro Cube. We hope you enjoy it as much as we enjoyed creating this development kit. Rubik’s Futuro Cube can be programmed by using a simple, typeless 32-bit language called ”PAWN”.
 
-This language has C like syntax and even if simple, is very powerful and fast. To get a little overview of what is possible on a basic level and how the language looks, please have a look at available examples on our SDK page:
+---
 
-[http://www.futurocube.com/sdk.htm](http://www.futurocube.com/sdk.htm)
+[**Jump to your first HELLO WORLD program now and read rest of this page later.**](//hello-world.md)
+
+---
+
+This language has C like syntax and even if simple, is very powerful and fast. To get a little overview of what is possible on a very basic level and how the language looks like, please have a look at available examples with short videos on our SDK page:
+
+[http://www.futurocube.com/sdk/\#examples](http://www.futurocube.com/sdk/#examples)
+
+---
 
 More information about PAWN, language syntax and other info can be found at:
 
@@ -12,17 +20,15 @@ More information about PAWN, language syntax and other info can be found at:
 
 For a language syntax guide, look at:
 
-[https://github.com/compuphase/pawn/blob/master/doc/Pawn_Language_Guide.pdf](https://github.com/compuphase/pawn/blob/master/doc/Pawn_Language_Guide.pdf)
+[https://github.com/compuphase/pawn/blob/master/doc/Pawn\_Language\_Guide.pdf](https://github.com/compuphase/pawn/blob/master/doc/Pawn_Language_Guide.pdf)
 
-You will also need to download Rubik’s Futuro Cube Suite (RFC Suite), available for Windows and Mac OS.
+---
 
-Windows users additionally have to correctly install the USB driver.
+You will also need to download Rubik’s Futuro Cube Suite \([RFC Suite](http://www.futurocube.com/support/#sw)\), available for Windows, LInux and Mac OS. Rubik's Futuro Cube official signed USB driver for Windows is part of the installation. 
 
-Please follow the instructions at:
+---
 
-[http://www.futurocube.com/support.htm](http://www.futurocube.com/support.htm)
+If there is any problem, check the support page [http://www.futurocube.com/support.htm](http://www.futurocube.com/support.htm)
 
-The SDK will need some testing and we will react immediately to reported bugs.
-
-Do not hesitate to write us either using the contact form on our website, or email us directly: <info@futurocube.com>
+Or contact us anytime directly at: [info@futurocube.com](mailto:info@futurocube.com)
 
