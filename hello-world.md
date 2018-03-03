@@ -1,16 +1,16 @@
 ## Hello world
 
-Let us code, compile and run your first program.
+Let's code, compile and run your first program.
 
 **Prerequisites:**
 
-* Install and run [Rubik's Futuro Cube Suite](http://www.futurocube.com/support/#sw), we will call next time just **RFCSuite **and **connect CUBE via USB cable to PC**.
+* Install and run [Rubik's Futuro Cube Suite](http://www.futurocube.com/support/#sw), from now on, we mean: **RFCSuite **and **connect CUBE via USB cable to PC**.
 
-* If RFCSuite correctly communicates with cube, cube becomes black and screen should look like this:
+* If RFCSuite correctly communicates with the cube, the cube should turn black and the screen should look like this:
 
 ![](/assets/ConnectedRFCSuite.jpg)
 
-* Now switch to **View-&gt;SDK mode**, you should see SDK view and available prompt given by [Interactive shell](/interactive-shell.md)
+* Now switch to **View-&gt;SDK mode**, you should see the SDK view and an available prompt given by [Interactive shell](/interactive-shell.md)
 
 ![](/assets/ViewSDKmode_small.jpg)
 
@@ -18,7 +18,7 @@ Let us code, compile and run your first program.
 
 ![](/assets/prompt.jpg)
 
-* Just for fun type "**colh 0x55124800**" and hit enter, you should get the cube filled by the given color, for more information later check [Colors, palettes and drawing](/colors-palettes-and-drawing.md), but now let us come back to programming.
+* Just for fun type "**colh 0x55124800**" and hit enter - you should get the cube filled with the given color. For more information later, check [Colors, palettes and drawing](/colors-palettes-and-drawing.md) but for now let's get back to programming.
 
 ```
 $>colh 0x55124800
@@ -33,9 +33,9 @@ Rubik’s Futuro Suite contains a standard PAWN compiler and allows you to compi
 
 ---
 
-* Create a directory, where you will have your first program and download there API definition file called "**futurocube.inc"** Something like header in C language, there is always[ link on SDK page](http://www.futurocube.com/sdk/) to the latest version.
+* Create a directory, where you will create your first program and download there API definition file called "**futurocube.inc"**. This is something like a header in C language and there is always a link on the[ SDK page](http://www.futurocube.com/sdk/) to the latest version.
 
-* In you favorite text editor create file **hello.p** (**p** extension is neccesary for RFCSuite to find this file). Simply copy, paste and save there next lines:
+* In you favorite text editor create a file called **hello.p** (**p** extension is necessary for RFCSuite to find this file). Simply copy, paste and save there the next few lines:
 
 ```c
 #include <futurocube>
