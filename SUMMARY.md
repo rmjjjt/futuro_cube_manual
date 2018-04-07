@@ -267,7 +267,6 @@
     * Shell
     * [Useful Macros](api-native-functions/usefulmacros.md)
     * [Macros Examples](api-native-functions/macro-examples.md)
-  * Uncategorized
     * [ClearCanvas](api-native-functions/clearcanvas.md)
     * [PrintCanvas](api-native-functions/printcanvas.md)
     * [SetIntensity](api-native-functions/setintensity.md)
