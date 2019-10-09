@@ -4,7 +4,7 @@ Welcome to the world of programming Rubik’s Futuro Cube. We hope you enjoy it 
 
 ---
 
-[**Jump to your first HELLO WORLD program now and read rest of this page later.**](//hello-world.md)
+[**Jump to your first HELLO WORLD program now and read rest of this page later.**](./hello-world.md)
 
 ---
 
